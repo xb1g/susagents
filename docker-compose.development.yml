@@ -9,9 +9,11 @@ services:
       - 7474:7474    # HTTP
       - 7473:7473  # HTTPS
       - 7687:7687    # BOLT
+      - 7688:7688    # BOLT Routing
     environment:
-      - NEO4J_AUTH=neo4j/${SUSTAINGRAPH_PASSWORD}
+      - NEO4J_AUTH=none
       - NEO4J_PLUGINS=["apoc", "graph-data-science", "bloom"]
+      - NEO4J_dbms_security_auth__enabled=false
     volumes:
       - ./neo4j_db/data:/data  # Persistent storage for the database
       - ./neo4j_db/logs:/logs # Persistent storage for logs

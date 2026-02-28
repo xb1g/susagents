@@ -1,0 +1,15 @@
+# Use the official Neo4j Enterprise Edition image as the base image
+FROM neo4j:5.16-enterprise
+
+# Set environment variables
+ENV NEO4J_ACCEPT_LICENSE_AGREEMENT=yes
+ENV NEO4J_apoc_export_file_enabled=true
+ENV NEO4J_apoc_import_file_enabled=true
+ENV NEO4J_apoc_import_file_use__neo4j__config=true
+# ENV NEO4J_PLUGINS=["apoc", "graph-data-science"]
+
+# Expose the ports for HTTP (7474), Bolt (7687), and HTTPS (7473)
+EXPOSE 7474 7687 7473
+
+#Run this otherwise
+# CMD ["bash", "-c", "neo4j console"]

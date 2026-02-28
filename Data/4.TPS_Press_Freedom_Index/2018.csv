@@ -1,0 +1,181 @@
+Year (N);ISO;Rank N;Score N;Score N without the exactions;Score N with the exactions;Score exactions;Rank N-1;Score N-1;Rank evolution;FR_country;EN_country;ES_country;AR_country;FA_country;Zone
+2018;NOR;1;92,37;92,37;93,89;100;1;92,4;0;Norvège;Norway;Noruega;النرويج;نروژ;UE Balkans
+2018;SWE;2;91,69;91,69;93,35;100;2;91,73;0;Suède;Sweden;Suecia;السويد;سوئد;UE Balkans
+2018;NLD;3;89,99;89,99;91,99;100;5;88,72;2;Pays-Bas;Netherlands;Países Bajos;هولندا;هلند;UE Balkans
+2018;FIN;4;89,74;89,74;91,79;100;3;91,08;-1;Finlande;Finland;Finlandia;فنلندا;فنلاند;UE Balkans
+2018;CHE;5;88,73;88,73;90,99;100;7;87,87;2;Suisse;Switzerland;Suiza;سويسرا;سويیس;UE Balkans
+2018;JAM;6;88,67;88,67;90,93;100;8;87,27;2;Jamaïque;Jamaica;Jamaica;جامايكا;جامائیکا;Amériques
+2018;BEL;7;86,84;86,84;89,47;100;9;87,25;2;Belgique;Belgium;Bélgica;بلجيكا;بلژیک;UE Balkans
+2018;NZL;8;86,38;86,38;89,1;100;13;86,02;5;Nouvelle-Zélande;New Zealand;Nueva Zelanda;نيوزيلاندا;زلاند نو;Asie-Pacifique
+2018;DNK;9;86,01;93,76;86,01;55;4;89,64;-5;Danemark;Denmark;Dinamarca;الدنمارك;دانمارک;UE Balkans
+2018;CRI;10;85,99;85,99;88,79;100;6;88,07;-4;Costa Rica;Costa Rica;Costa Rica;كوستاريكا;کاستاریکا;Amériques
+2018;AUT;11;85,96;85,96;88,77;100;11;86,53;0;Autriche;Austria;Austria;النمسا;اتریش;UE Balkans
+2018;EST;12;85,92;85,92;88,73;100;12;86,45;0;Estonie;Estonia;Estonia;إستونيا;استونی;UE Balkans
+2018;ISL;13;85,9;85,9;88,72;100;10;86,97;-3;Islande;Iceland;Islandia;أيسلندا;ایسلند;UE Balkans
+2018;PRT;14;85,83;85,83;87,27;93,1;18;84,23;4;Portugal;Portugal;Portugal;البرتغال;پرتغال;UE Balkans
+2018;DEU;15;85,61;89,1;85,61;71,7;16;85,03;1;Allemagne;Germany;Alemania;ألمانيا;آلمان;UE Balkans
+2018;IRL;16;85,41;85,41;88,33;100;14;85,92;-2;Irlande;Ireland;Irlanda;أيرلندا;ایرلند;UE Balkans
+2018;LUX;17;85,28;85,28;88,23;100;15;85,28;-2;Luxembourg;Luxembourg;Luxemburgo;لوكسمبورغ;لوکزامبورگ;UE Balkans
+2018;CAN;18;84,72;85,08;85,29;86,1;22;83,47;4;Canada;Canada;Canadá;كندا;کانادا;Amériques
+2018;AUS;19;84,54;84,54;87,63;100;19;83,98;0;Australie;Australia;Australia;أستراليا;استرالیا;Asie-Pacifique
+2018;URY;20;84,44;84,44;87,55;100;25;82,57;5;Uruguay;Uruguay;Uruguay;أوروغواي;اروگويه;Amériques
+2018;SUR;21;83,56;83,56;86,85;100;20;83,93;-1;Suriname;Suriname;Surinam;سورينام;سورینام;Amériques
+2018;WSM;22;83,31;83,31;86,65;100;21;83,59;-1;Samoa;Samoa;Samoa;ساموا;ساموآ;Asie-Pacifique
+2018;GHA;23;81,59;81,59;85,28;100;26;82,05;3;Ghana;Ghana;Ghana;غانا;غنا;Afrique
+2018;LVA;24;80,37;80,37;84,3;100;28;81,38;4;Lettonie;Latvia;Letonia;لاتفيا;لتوانی;UE Balkans
+2018;CYP;25;80,15;80,15;84,12;100;30;80,21;5;Chypre;Cyprus;Chipre;قبرص;قبرس;UE Balkans
+2018;NAM;26;79,76;79,76;83,81;100;24;82,92;-2;Namibie;Namibia;Namibia;ناميبيا;نامیبیا;Afrique
+2018;SVK;27;79,74;79,74;83,79;100;17;84,49;-10;Slovaquie;Slovakia;Eslovaquia;سلوفاكيا;اسلواکی;UE Balkans
+2018;ZAF;28;79,61;79,61;83,69;100;31;79,88;3;Afrique du Sud;South Africa;Sudáfrica;جنوب أفريقيا;آفریقای جنوبی;Afrique
+2018;CPV;29;79,61;79,61;83,68;100;27;81,98;-2;Cap-Vert;Cape Verde;Cabo Verde;الرأس الأخضر;کیپورد;Afrique
+2018;LIE;30;79,51;79,51;83,61;100;32;79,69;2;Liechtenstein;Liechtenstein;Liechtenstein;ليختنشتاين;لیختن‌اشتاین;UE Balkans
+2018;ESP;31;79,49;79,89;80,69;83,9;29;81,31;-2;Espagne;Spain;España;إسبانيا;اسپانیا;UE Balkans
+2018;SVN;32;78,31;78,31;82,64;100;37;78,3;5;Slovénie;Slovenia;Eslovenia;سلوفينيا;اسلوانی;UE Balkans
+2018;FRA;33;78,13;79,89;78,13;71,1;39;77,76;6;France;France;Francia;فرنسا;فرانسه;UE Balkans
+2018;CZE;34;78,11;78,11;82,49;100;23;83,09;-11;République tchèque;Czech Republic;República Checa;جمهورية التشيك;جمهوری چک;UE Balkans
+2018;XCD;35;77,89;77,89;82,31;100;38;77,9;3;OECS;OECS;OECS;الكاريبي;جزایر کارائیب شرقی;Amériques
+2018;LTU;36;77,8;77,8;82,24;100;36;78,63;0;Lituanie;Lithuania;Lituania;ليتوانيا;لیتوانی;UE Balkans
+2018;AND;37;77,79;77,79;82,23;100;35;78,97;-2;Andorre;Andorra;Andorra;أندورا;آندور;UE Balkans
+2018;CHL;38;77,31;77,31;81,85;100;33;79,47;-5;Chili;Chile;Chile;تشيلي;شیلی;Amériques
+2018;TTO;39;77,21;77,21;79,57;89;34;79,38;-5;Trinité-et-Tobago;Trinidad and Tobago;Trinidad y Tobago;ترينيداد وتوباغو;ترنتی و توبوگو;Amériques
+2018;GBR;40;76,75;76,75;81,4;100;40;77,74;0;Royaume-Uni;United Kingdom;Reino Unido;المملكة المتحدة;بریتانیا;UE Balkans
+2018;BFA;41;76,67;76,67;81,34;100;42;76,15;1;Burkina Faso;Burkina Faso;Burkina Faso;بوركينا فاسو;بورکینافاسو;Afrique
+2018;TWN;42;76,64;76,64;81,31;100;45;75,63;3;Taïwan;Taiwan;Taiwán;تايوان;تایوان;Asie-Pacifique
+2018;KOR;43;76,49;76,49;81,19;100;63;72,39;20;Corée du Sud;South Korea;Corea del Sur;كوريا الجنوبية;کره جنوبی;Asie-Pacifique
+2018;ROU;44;76,35;76,35;81,08;100;46;75,54;2;Roumanie;Romania;Rumania;رومانيا;رومانی;UE Balkans
+2018;USA;45;76,27;79,68;76,27;62,6;43;76,12;-2;États-Unis;United States;Estados Unidos;الولايات المتحدة;ایالات متحده امریکا;Amériques
+2018;ITA;46;75,88;75,88;79,32;93,1;52;73,74;6;Italie;Italy;Italia;إيطاليا;ایتالیا;UE Balkans
+2018;BLZ;47;75,45;75,45;80,36;100;41;76,57;-6;Bélize;Belize;Belice;بليز;بلیز;Amériques
+2018;BWA;48;74,71;74,71;77,57;89;48;75,07;0;Botswana;Botswana;Botsuana;بوتسوانا;بوستاوانا;Afrique
+2018;COM;49;74,7;74,7;79,76;100;44;75,67;-5;Comores;Comoros;Comoras;جزر القمر;کومور;Afrique
+2018;SEN;50;74,39;74,39;79,51;100;58;73,28;8;Sénégal;Senegal;Senegal;السنغال;سنگال;Afrique
+2018;TON;51;74,32;74,32;79,45;100;49;75,03;-2;Tonga;Tonga;Tonga;تونغا;تونگا;Asie-Pacifique
+2018;ARG;52;73,95;77,46;73,95;59,9;50;74,93;-2;Argentine;Argentina;Argentina;الأرجنتين;آرژانتین;Amériques
+2018;PNG;53;73,81;73,81;76,85;89;51;74,93;-2;Papouasie-Nouvelle-Guinée;Papua New Guinea;Papúa Nueva Guinea;بابوا غينيا الجديدة;پاپوآ گینه نو;Asie-Pacifique
+2018;MDG;54;73,8;73,8;76,26;86,1;57;73,29;3;Madagascar;Madagascar;Madagascar;مدغشقر;ماداگاسکار;Afrique
+2018;GUY;55;73,75;73,75;79;100;60;73,2;5;Guyana;Guyana;Guyana;غويانا;گیانا;Amériques
+2018;MUS;56;73,55;73,55;78,84;100;56;73,33;0;Maurice;Mauritius;Mauricio;موريشيوس;موریس;Afrique
+2018;FJI;57;73,45;73,45;78,76;100;67;71,36;10;Fidji;Fiji;Fiyi;فيجي;فیجی;Asie-Pacifique
+2018;POL;58;73,41;73,41;78,73;100;54;73,53;-4;Pologne;Poland;Polonia;بولندا;لهستان;UE Balkans
+2018;DOM;59;73,21;73,21;78,57;100;59;73,24;0;République dominicaine;Dominican Republic;República Dominicana;جمهورية الدومينيكان;جمهوری دومینیک;Amériques
+2018;HTI;60;73,18;73,18;78,54;100;53;73,64;-7;Haïti;Haiti;Haití;هايتي;هايیتی;Amériques
+2018;GEO;61;72,66;72,66;78,13;100;64;72,24;3;Géorgie;Georgia;Georgia;جورجيا;گرجستان;EEAC
+2018;BIH;62;72,63;72,63;78,1;100;65;72,17;3;Bosnie-Herzégovine;Bosnia and Herzegovina;Bosnia-Herzegovina;البوسنة والهرسك;بوسنی هرزوگوین;UE Balkans
+2018;NER;63;72,6;72,6;75,31;86,1;61;72,79;-2;Niger;Niger;Niger;النيجر;نیجر;Afrique
+2018;MWI;64;72,57;72,57;78,06;100;70;71,03;6;Malawi;Malawi;Malaui;مالاوي;مالاوی;Afrique
+2018;MLT;65;72,56;76,96;72,57;55;47;75,24;-18;Malte;Malta;Malta;مالطا;مالت;UE Balkans
+2018;SLV;66;72,22;72,22;77,77;100;62;72,76;-4;El Salvador;El Salvador;El Salvador;السلفادور;ال‌سالوادور;Amériques
+2018;JPN;67;71,36;71,36;77,09;100;72;70,56;5;Japon;Japan;Japón;اليابان;ژاپن;Asie-Pacifique
+2018;LSO;68;71,22;71,22;76,97;100;68;71,22;0;Lesotho;Lesotho;Lesoto;ليسوتو;لسو‌تو;Afrique
+2018;HRV;69;71,06;71,06;76,85;100;74;70,41;5;Croatie;Croatia;Croacia;كرواتيا;کرواسی;UE Balkans
+2018;HKG;70;70,96;70,96;75,38;93,1;73;70,54;3;Hong-Kong;Hong Kong;Hong Kong;هونغ كونغ;هنگ کنگ;Asie-Pacifique
+2018;MNG;71;70,95;70,95;76,76;100;69;71,05;-2;Mongolie;Mongolia;Mongolia;منغوليا;مغولستان;Asie-Pacifique
+2018;MRT;72;70,91;72,84;71;63,6;55;73,51;-17;Mauritanie;Mauritania;Mauritania;موريتانيا;موریتانی;Afrique
+2018;HUN;73;70,89;70,89;76,71;100;71;70,99;-2;Hongrie;Hungary;Hungría;المجر;مجارستان;UE Balkans
+2018;GRC;74;70,81;70,81;76,65;100;88;69,11;14;Grèce;Greece;Grecia;اليونان;یونان;UE Balkans
+2018;ALB;75;70,51;70,51;73,19;83,9;76;70,08;1;Albanie;Albania;Albania;ألبانيا;آلبانی;UE Balkans
+2018;SRB;76;70,42;70,42;76,33;100;66;71,95;-10;Serbie;Serbia;Serbia;صربيا;صربستان;UE Balkans
+2018;CTU;77;70,41;70,41;76,33;100;75;70,12;-2;Chypre (partie Nord);Cyprus North;Chipre Norte;قبرص (الجزء الشمالي);قبرس (شمالی);UE Balkans
+2018;XKO;78;70,39;70,39;74,93;93,1;82;69,55;4;Kosovo;Kosovo;Kosovo;كوسوفو;کوسووو;UE Balkans
+2018;SLE;79;70,02;70,02;76,01;100;85;69,27;6;Sierra Leone;Sierra Leone;Sierra Leona;سيراليون;سئیرالئون;Afrique
+2018;ARM;80;70,01;70,01;76,01;100;79;69,62;-1;Arménie;Armenia;Armenia;أرمينيا;ارمنستان;EEAC
+2018;MDA;81;69,99;69,99;74,61;93,1;80;69,59;-1;Moldavie;Moldova;Moldavia;مولدوفا;مولداوی;EEAC
+2018;CIV;82;69,92;70,24;72,03;79,2;81;69,58;-1;Côte d'Ivoire;Ivory Coast;Costa de Marfil;ساحل العاج;ساحل عاج;Afrique
+2018;GNB;83;69,91;69,91;75,93;100;77;69,91;-6;Guinée-Bissau;Guinea-Bissau;Guinea-Bisáu;غينيا بيساو;گینه بیسائو;Afrique
+2018;BEN;84;69,84;69,84;75,87;100;78;69,68;-6;Bénin;Benin;Benín;بنين;بنین;Afrique
+2018;SYC;85;69,83;69,83;75,87;100;87;69,14;2;Seychelles;Seychelles;Seychelles;سيشيل;سی‌شل;Afrique
+2018;TGO;86;69,77;69,77;73,04;86,1;86;69,25;0;Togo;Togo;Togo;توغو;توگو;Afrique
+2018;ISR;87;69,74;69,95;70,55;72,9;91;68,99;4;Israël;Israel;Israel;إسرائيل;اسرائیل;MENA
+2018;PER;88;69,73;69,73;73,01;86,1;90;69,02;2;Pérou;Peru;Peru;بيرو;پرو;Amériques
+2018;LBR;89;69,67;69,67;75,74;100;94;68,88;5;Liberia;Liberia;Liberia;ليبيريا;لیبریا;Afrique
+2018;NIC;90;69,59;69,59;75,67;100;92;68,99;2;Nicaragua;Nicaragua;Nicaragua;نيكاراغوا;نیکاراگوئه;Amériques
+2018;PAN;91;69,44;69,44;75,55;100;96;67,88;5;Panama;Panama;Panamá;بنما;پاناما;Amériques
+2018;ECU;92;69,44;69,44;75,55;100;105;66,36;13;Équateur;Ecuador;Ecuador;الإكوادور;اکواتور;Amériques
+2018;TZA;93;69,35;69,35;75,48;100;83;69,35;-10;Tanzanie;Tanzania;Tanzania;تنزانيا;تانزانیا;Afrique
+2018;BTN;94;69,27;69,27;75,42;100;84;69,27;-10;Bhoutan;Bhutan;Bután;بوتان;بوتان;Asie-Pacifique
+2018;TLS;95;69,19;69,19;75,35;100;98;67,18;3;Timor oriental;East Timor;Timor Oriental;تيمور الشرقية;تیمور شرقی;Asie-Pacifique
+2018;KEN;96;69,18;69,18;70,74;77;95;68,8;-1;Kenya;Kenya;Kenia;كينيا;کنیا;Afrique
+2018;TUN;97;69,09;69,09;72,05;83,9;97;67,78;0;Tunisie;Tunisia;Túnez;تونس;تونس;MENA
+2018;KGZ;98;69;69;69,92;73,6;89;69,08;-9;Kirghizstan;Kyrgyzstan;Kirguistán;قرغيزستان;قرقیزستان;EEAC
+2018;MOZ;99;68,88;68,88;75,1;100;93;68,95;-6;Mozambique;Mozambique;Mozambique;موزمبيق;موزامبیک;Afrique
+2018;LBN;100;68,85;68,92;70,53;77;99;66,99;-1;Liban;Lebanon;Líbano;لبنان;لبنان;MENA
+2018;UKR;101;68,84;69,86;68,84;64,7;102;66,81;1;Ukraine;Ukraine;Ucrania;أوكرانيا;اوکراين;EEAC
+2018;BRA;102;68,8;73,22;68,8;51,1;103;66,42;1;Brésil;Brazil;Brasil;البرازيل;برزیل;Amériques
+2018;MNE;103;68,79;68,79;75,03;100;106;66,35;3;Monténégro;Montenegro;Montenegro;الجبل الأسود;مونته‌نگرو;UE Balkans
+2018;GIN;104;68,1;68,1;69,51;75,2;101;66,85;-3;Guinée;Guinea;Guinea;غينيا;گینه;Afrique
+2018;KWT;105;68,09;68,09;74,47;100;104;66,39;-1;Koweït;Kuwait;Kuwait;الكويت;کویت;MENA
+2018;NPL;106;67,95;68,04;69,83;77;100;66,98;-6;Népal;Nepal;Nepal;نيبال;نپال;Asie-Pacifique
+2018;PRY;107;67,68;67,68;71,95;89;110;64,36;3;Paraguay;Paraguay;Paraguay;باراغواي;پاراگوئه;Amériques
+2018;GAB;108;67,63;68,02;68,23;69,1;108;65,17;0;Gabon;Gabon;República Gabonesa;الغابون;گابون;Afrique
+2018;MKD;109;67,57;67,57;71,29;86,1;111;64,26;2;Macédoine du Nord;North Macedonia;República de Macedonia del Norte;مقدونيا الشمالية;مقدونیه شمالی ;UE Balkans
+2018;BOL;110;67,55;67,55;70,45;82,1;107;66,12;-3;Bolivie;Bolivia;Bolivia;بوليفيا;بلیوی;Amériques
+2018;BGR;111;64,78;64,78;71,82;100;109;64,99;-2;Bulgarie;Bulgaria;Bulgaria;بلغاريا;بلغارستان;UE Balkans
+2018;CAF;112;64,75;64,75;69,6;89;113;63,88;1;République centrafricaine;Central African Republic;República Centroafricana;جمهورية أفريقيا الوسطى;جمهوری آفریقای مرکزی;Afrique
+2018;ZMB;113;64,64;64,98;67,38;77;114;63,52;1;Zambie;Zambia;Zambia;زامبيا;زامبیا;Afrique
+2018;COG;114;64,58;64,58;65,4;68,6;115;63,27;1;Congo;Congo;República del Congo;الكونغو;کنگو;Afrique
+2018;MLI;115;63,85;63,85;71,08;100;116;61,73;1;Mali;Mali;Malí;مالي;مالی;Afrique
+2018;GTM;116;63,83;63,83;68,87;89;118;60,67;2;Guatemala;Guatemala;Guatemala;غواتيمالا;گواتمالا;Amériques
+2018;UGA;117;63,23;63,81;63,94;64,4;112;64,06;-5;Ouganda;Uganda;Uganda;أوغندا;اوگاندا;Afrique
+2018;AFG;118;62,72;70,47;62,72;31,7;120;60,54;2;Afghanistan;Afghanistan;Afganistán;أفغانستان;افغانستان;Asie-Pacifique
+2018;NGA;119;62,59;63,52;62,59;58,9;122;60,31;3;Nigeria;Nigeria;Nigeria;نيجيريا;نیجریه;Afrique
+2018;MDV;120;62,05;64,15;62,17;54,3;117;60,7;-3;Maldives;Maldives;Maldivas;المالديف;مالدیو;Asie-Pacifique
+2018;AGO;121;61,65;61,65;69,32;100;125;59,58;4;Angola;Angola;Angola;أنغولا;آنگولا;Afrique
+2018;GMB;122;61,64;61,64;69,32;100;143;53,3;21;Gambie;Gambia;Gambia;غامبيا;گامبیا;Afrique
+2018;TCD;123;61,55;61,55;63,57;71,7;121;60,34;-2;Tchad;Chad;Chad;تشاد;چاد;Afrique
+2018;IDN;124;60,32;60,32;64,68;82,1;124;60,07;0;Indonésie;Indonesia;Indonesia;أندونيسيا;اندونزی;Asie-Pacifique
+2018;QAT;125;59,84;59,84;67,87;100;123;60,17;-2;Qatar;Qatar;Catar;قطر;قطر;MENA
+2018;ZWE;126;59,47;59,47;62,97;77;128;58,56;2;Zimbabwe;Zimbabwe;Zimbabue;زيمبابوي;زیمبابوه;Afrique
+2018;OMN;127;59,33;59,33;60,66;66;126;59,54;-1;Oman;Oman;Omán;عمان;عمان;MENA
+2018;ARE;128;59,14;59,63;59,55;59,2;119;60,61;-9;Émirats arabes unis;United Arab Emirates;Emiratos Árabes Unidos;الإمارات العربية المتحدة;امارات متحده عربی;MENA
+2018;CMR;129;59,08;59,28;60,49;65,3;130;58,41;1;Cameroun;Cameroon;Camerún;الكاميرون;کامرون;Afrique
+2018;COL;130;58,97;60,42;58,97;53,2;129;58,53;-1;Colombie;Colombia;Colombia;كولومبيا;کلمبیا;Amériques
+2018;LKA;131;58,63;58,63;65,52;93,1;141;55,66;10;Sri Lanka;Sri Lanka;Sri Lanka;سري لانكا;سریلانکا;Asie-Pacifique
+2018;JOR;132;58,29;58,29;66,63;100;138;56,76;6;Jordanie;Jordan;Jordania;الأردن;اردن;MENA
+2018;PHL;133;57,47;61,57;57,47;41,1;127;58,92;-6;Philippines;Philippines;Filipinas;الفلبين;فلیپین;Asie-Pacifique
+2018;PSE;134;57,04;59,32;57,72;51,3;135;57,1;1;Palestine;Palestine;Palestina;فلسطين;فلسطین;MENA
+2018;MAR;135;56,87;56,87;60,08;72,9;133;57,58;-2;Maroc;Morocco;Marruecos;المغرب;مراکش;MENA
+2018;DZA;136;56,87;56,87;62,72;86,1;134;57,17;-2;Algérie;Algeria;Argelia;الجزائر;الجزایر;MENA
+2018;MMR;137;56,85;58,34;57,2;52,6;131;58,18;-6;Birmanie;Myanmar;Birmania;بورما;برمه;Asie-Pacifique
+2018;IND;138;56,76;60,99;56,76;39,9;136;57,06;-2;Inde;India;India;الهند;هند;Asie-Pacifique
+2018;PAK;139;56,76;58,37;56,76;50,3;139;56,45;0;Pakistan;Pakistan;Pakistán;باكستان;پاکستان;Asie-Pacifique
+2018;THA;140;55,69;56,51;55,69;52,4;142;55,31;2;Thaïlande;Thailand;Tailandia;تايلاند;تایلند;Asie-Pacifique
+2018;HND;141;54,77;55,05;54,77;53,7;140;56,25;-1;Honduras;Honduras;Honduras;هندوراس;هندوراس;Amériques
+2018;KHM;142;54,1;54,1;55,81;62,6;132;57,93;-10;Cambodge;Cambodia;Camboya;كمبوديا;کامبوج;Asie-Pacifique
+2018;VEN;143;53,97;54,44;54,43;54,4;137;57,06;-6;Venezuela;Venezuela;Venezuela;فنزويلا;ونزوئلا;Amériques
+2018;SSD;144;53,12;53,12;53,31;54;145;51,84;1;Soudan du Sud;South Sudan;Sudán del Sur;جمهورية جنوب السودان;سودان جنوبی;Afrique
+2018;MYS;145;52,59;52,59;62,07;100;144;53,11;-1;Malaisie;Malaysia;Malasia;ماليزيا;مالزی;Asie-Pacifique
+2018;BGD;146;51,38;52,8;51,38;45,7;146;51,64;0;Bangladesh;Bangladesh;Bangladés;بنغلاديش;بنگلادش;Asie-Pacifique
+2018;MEX;147;51,09;56,23;51,09;30,5;147;51,03;0;Mexique;Mexico;México;المكسيك;مکزیک;Amériques
+2018;RUS;148;50,04;51,76;50,24;44,2;148;50,55;0;Russie;Russian Federation;Rusia;روسيا;روسیه;EEAC
+2018;TJK;149;49,94;49,94;53,96;70;149;49,73;0;Tadjikistan;Tajikistan;Tayikistán;طاجيكستان;تاجیکستان;EEAC
+2018;ETH;150;49,83;53,93;50,07;34,6;150;49,66;0;Éthiopie;Ethiopia;Etiopía;أثيوبيا;اتیوپی;Afrique
+2018;SGP;151;49,05;49,05;59,24;100;151;48,9;0;Singapour;Singapore;Singapur;سنغافورة;سنگاپور;Asie-Pacifique
+2018;SWZ;152;48,54;48,54;58,83;100;152;48,73;0;Eswatini;Eswatini;Esuatini;إسواتيني;اسواتینی ;Afrique
+2018;BRN;153;48,52;48,52;58,82;100;156;46,28;3;Brunei;Brunei Darussalam;Brunéi;بروناي;برونی;Asie-Pacifique
+2018;COD;154;48,4;48,4;49,79;55,3;154;47,33;0;RD Congo;The Democratic Republic Of The Congo;RD Congo;جمهورية الكونغو الديمقراطية;جمهوری دمکراتیک کنگو;Afrique
+2018;BLR;155;47,41;47,72;48,14;49,8;153;47,57;-2;Bélarus;Belarus;Belarús;روسيا البيضاء;روسیه سفید;EEAC
+2018;RWA;156;47,1;47,1;54,91;86,1;159;45,89;3;Rwanda;Rwanda;Ruanda;رواندا;روندا;Afrique
+2018;TUR;157;46,5;49,04;46,5;36,3;155;47,02;-2;Turquie;Turkey;Turquía;تركيا;ترکیه;EEAC
+2018;KAZ;158;45,59;45,59;49,88;67;157;45,99;-1;Kazakhstan;Kazakhstan;Kazajistán;كازاخستان;قزاقستان;EEAC
+2018;BDI;159;44,74;44,74;51,18;77;160;44,22;1;Burundi;Burundi;Burundi;بوروندي;بروندی;Afrique
+2018;IRQ;160;43,44;46,29;43,44;32;158;45,97;-2;Irak;Iraq;Irak;العراق;عراق;MENA
+2018;EGY;161;43,28;45,1;43,31;36,1;161;44,22;0;Égypte;Egypt;Egipto;مصر;مصر;MENA
+2018;LBY;162;43,21;43,21;44,48;49,6;163;43,19;1;Libye;Libya;Libia;ليبيا;لیبی;MENA
+2018;AZE;163;40,27;42,19;41,82;40,4;162;43,6;-1;Azerbaïdjan;Azerbaijan;Azerbaiyán;أذربيجان;آذربایجان;EEAC
+2018;IRN;164;39,29;41;39,29;32,4;165;34,88;1;Iran;Islamic Republic of Iran;Irán;إيران;ایران;MENA
+2018;UZB;165;39,16;41,35;39,42;31,7;169;33,89;4;Ouzbékistan;Uzbekistan;Uzbekistán;أوزبكستان;اوزبکستان;EEAC
+2018;BHR;166;39,15;40,28;40,07;39,2;164;41,12;-2;Bahreïn;Bahrain;Baréin;البحرين;بحرین;MENA
+2018;YEM;167;37,77;38,32;39,08;42,1;166;34,2;-1;Yémen;Yemen;Yemen;اليمن;یمن;MENA
+2018;SOM;168;36,96;38,5;38,62;39,1;167;34,05;-1;Somalie;Somalia;Somalia;الصومال;سومالی;Afrique
+2018;SAU;169;36,87;38,11;37,87;36,9;168;33,98;-1;Arabie saoudite;Saudi Arabia;Arabia Saudita;المملكة العربية السعودية;عربستان سعودی;MENA
+2018;LAO;170;33,59;33,59;35,67;44;170;33,59;0;Laos;Lao People's Democratic Republic;Laos;لاوس;لائوس;Asie-Pacifique
+2018;GNQ;171;33,53;33,53;46,82;100;171;33,53;0;Guinée équatoriale;Equatorial Guinea;Guinea Ecuatorial;غينيا الاستوائية;گینه اکوادور;Afrique
+2018;CUB;172;31,1;31,1;37,77;64,4;173;28,25;1;Cuba;Cuba;Cuba;كوبا;کوبا;Amériques
+2018;DJI;173;29,23;29,23;43,38;100;172;29,46;-1;Djibouti;Djibouti;Yibuti;جيبوتي;جیبوتی;Afrique
+2018;SDN;174;28,87;28,87;38,49;77;174;26,44;0;Soudan;Sudan;Sudán;السودان;سودان;Afrique
+2018;VNM;175;24,95;24,95;26,77;34;175;26,04;0;Viêt Nam;Vietnam;Vietnam;فيتنام;ویتنام;Asie-Pacifique
+2018;CHN;176;21,71;23,5;22,47;18,3;176;22,34;0;Chine;China;China;الصين;چین;Asie-Pacifique
+2018;SYR;177;20,78;23;22,07;18,4;177;18,51;0;Syrie;Syrian Arab Republic;Siria;سوريا;سوریه;MENA
+2018;TKM;178;15,8;15,8;25,77;65,7;178;15,81;0;Turkménistan;Turkmenistan;Turkmenistán;تركمانستان;ترکمنستان;EEAC
+2018;ERI;179;15,76;15,76;18,32;28,6;179;15,76;0;Érythrée;Eritrea;Eritrea;إريتريا;اریتره;Afrique
+2018;PRK;180;11,13;11,13;18,52;48,1;180;15,02;0;Corée du Nord;Democratic People's Republic of Korea;Corea del Norte;كوريا الشمالية;کره شمالی;Asie-Pacifique

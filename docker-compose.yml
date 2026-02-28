@@ -1,0 +1,27 @@
+services:
+  neo4j:
+    container_name: neo4j
+    # image: neo4j:enterprise
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 7474:7474    # HTTP
+      - 7473:7473  # HTTPS
+      - 7687:7687    # BOLT
+    environment:
+      # - NEO4J_ACCEPT_LICENSE_AGREEMENT=yes # enterprise edition only
+      - NEO4J_AUTH=neo4j/${SUSTAINGRAPH_PASSWORD}
+      # - NEO4J_apoc_export_file_enabled=true
+      # - NEO4J_apoc_import_file_enabled=true
+      # - NEO4J_apoc_import_file_use__neo4j__config=true
+      - NEO4J_PLUGINS=["apoc", "graph-data-science", "bloom"]
+    volumes:
+      - ./neo4j_db/data:/data  # Persistent storage for the database
+      - ./neo4j_db/logs:/logs # Persistent storage for logs
+      - ./neo4j_db/import:/import # Import directory to upload files for data ingestion
+      - ./neo4j_db/plugins:/plugins
+      - ./neo4j_db/conf:/conf
+      - ./neo4j_db/licences:/licences
+      - ./neo4j_db/metrics:/metrics # enterprise edition only
+    restart: always

@@ -1,0 +1,181 @@
+Year (N);ISO;Rank N;Score N;Score N without the exactions;Score N with the exactions;Score exactions;Rank N-1;Score N-1;Rank evolution;FR_country;EN_country;ES_country;AR_country;FA_country;Zone
+2021;NOR;1;93,28;93,28;94,51;100;1;92,16;0;Norvège;Norway;Noruega;النرويج;نروژ;UE Balkans
+2021;FIN;2;93,01;93,01;94,4;100;2;92,07;0;Finlande;Finland;Finlandia;فنلندا;فنلاند;UE Balkans
+2021;SWE;3;92,76;92,76;94,17;100;4;90,75;1;Suède;Sweden;Suecia;السويد;سوئد;UE Balkans
+2021;DNK;4;91,43;91,43;93,21;100;3;91,87;-1;Danemark;Denmark;Dinamarca;الدنمارك;دانمارک;UE Balkans
+2021;CRI;5;91,24;91,79;91,24;89,01;7;89,47;2;Costa Rica;Costa Rica;Costa Rica;كوستاريكا;کاستاریکا;Amériques
+2021;NLD;6;90,33;91,26;90,33;86,14;5;90,04;-1;Pays-Bas;Netherlands;Países Bajos;هولندا;هلند;UE Balkans
+2021;JAM;7;90,04;90,04;92,09;100;6;89,49;-1;Jamaïque;Jamaica;Jamaica;جامايكا;جامائیکا;Amériques
+2021;NZL;8;89,96;89,96;91,8;100;9;89,31;1;Nouvelle-Zélande;New Zealand;Nueva Zelanda;نيوزيلاندا;زلاند نو;Asie-Pacifique
+2021;PRT;9;89,89;89,89;92,01;100;10;88,17;1;Portugal;Portugal;Portugal;البرتغال;پرتغال;UE Balkans
+2021;CHE;10;89,45;89,45;90,28;93,07;8;89,38;-2;Suisse;Switzerland;Suiza;سويسرا;سويیس;UE Balkans
+2021;BEL;11;88,31;88,31;89,31;93,07;12;87,43;1;Belgique;Belgium;Bélgica;بلجيكا;بلژیک;UE Balkans
+2021;IRL;12;88,09;88,09;90,42;100;13;87,4;1;Irlande;Ireland;Irlanda;أيرلندا;ایرلند;UE Balkans
+2021;DEU;13;84,76;91,75;84,76;56,69;11;87,84;-2;Allemagne;Germany;Alemania;ألمانيا;آلمان;UE Balkans
+2021;CAN;14;84,75;84,75;87,94;100;16;84,71;2;Canada;Canada;Canadá;كندا;کانادا;Amériques
+2021;EST;15;84,75;84,75;87,71;100;14;87,39;-1;Estonie;Estonia;Estonia;إستونيا;استونی;UE Balkans
+2021;ISL;16;84,63;84,63;87,91;100;15;84,88;-1;Islande;Iceland;Islandia;أيسلندا;ایسلند;UE Balkans
+2021;AUT;17;83,66;83,66;84,78;89,01;18;84,22;1;Autriche;Austria;Austria;النمسا;اتریش;UE Balkans
+2021;URY;18;83,62;83,62;86,93;100;19;84,21;1;Uruguay;Uruguay;Uruguay;أوروغواي;اروگويه;Amériques
+2021;SUR;19;83,05;83,05;86,59;100;20;82,5;1;Suriname;Suriname;Surinam;سورينام;سورینام;Amériques
+2021;LUX;20;82,44;82,44;86,08;100;17;84,54;-3;Luxembourg;Luxembourg;Luxemburgo;لوكسمبورغ;لوکزامبورگ;UE Balkans
+2021;WSM;21;80,76;80,76;84,79;100;21;81,75;0;Samoa;Samoa;Samoa;ساموا;ساموآ;Asie-Pacifique
+2021;LVA;22;80,74;80,74;84,72;100;22;81,44;0;Lettonie;Latvia;Letonia;لاتفيا;لتوانی;UE Balkans
+2021;LIE;23;80,51;80,51;84,36;100;24;80,48;1;Liechtenstein;Liechtenstein;Liechtenstein;ليختنشتاين;لیختن‌اشتاین;UE Balkans
+2021;NAM;24;80,28;80,28;82,06;89,01;23;80,75;-1;Namibie;Namibia;Namibia;ناميبيا;نامیبیا;Afrique
+2021;AUS;25;80,21;80,21;84,24;100;26;79,79;1;Australie;Australia;Australia;أستراليا;استرالیا;Asie-Pacifique
+2021;CYP;26;80,15;80,15;81,02;83,91;27;79,55;1;Chypre;Cyprus;Chipre;قبرص;قبرس;UE Balkans
+2021;CPV;27;79,91;79,91;84,02;100;25;79,85;-2;Cap-Vert;Cape Verde;Cabo Verde;الرأس الأخضر;کیپورد;Afrique
+2021;LTU;28;79,85;79,85;83,92;100;28;78,81;0;Lituanie;Lithuania;Lituania;ليتوانيا;لیتوانی;UE Balkans
+2021;ESP;29;79,56;80,3;79,56;76,02;29;77,84;0;Espagne;Spain;España;إسبانيا;اسپانیا;UE Balkans
+2021;GHA;30;78,67;78,67;79,5;82,08;30;77,74;0;Ghana;Ghana;Ghana;غانا;غنا;Afrique
+2021;TTO;31;78,45;78,45;83;100;36;76,78;5;Trinité-et-Tobago;Trinidad and Tobago;Trinidad y Tobago;ترينيداد وتوباغو;ترنتی و توبوگو;Amériques
+2021;GBR;33;78,41;78,35;80,06;86,14;35;77,07;2;Royaume-Uni;United Kingdom;Reino Unido;المملكة المتحدة;بریتانیا;UE Balkans
+2021;ZAF;32;78,41;84,39;78,35;54,36;31;77,59;-1;Afrique du Sud;South Africa;Sudáfrica;جنوب أفريقيا;آفریقای جنوبی;Afrique
+2021;FRA;34;77,4;82,11;77,4;58,1;34;77,08;0;France;France;Francia;فرنسا;فرانسه;UE Balkans
+2021;SVK;35;76,98;76,98;81,78;100;33;77,33;-2;Slovaquie;Slovakia;Eslovaquia;سلوفاكيا;اسلواکی;UE Balkans
+2021;SVN;36;76,9;76,9;80,34;93,07;32;77,36;-4;Slovénie;Slovenia;Eslovenia;سلوفينيا;اسلوانی;UE Balkans
+2021;BFA;37;76,83;76,83;80,26;93,07;38;76,53;1;Burkina Faso;Burkina Faso;Burkina Faso;بوركينا فاسو;بورکینافاسو;Afrique
+2021;BWA;38;76,75;76,75;80,08;93,07;39;76,44;1;Botswana;Botswana;Botsuana;بوتسوانا;بوستاوانا;Afrique
+2021;AND;39;76,68;76,68;81,38;100;37;76,77;-2;Andorre;Andorra;Andorra;أندورا;آندور;UE Balkans
+2021;CZE;40;76,62;76,62;81,46;100;40;76,43;0;République tchèque;Czech Republic;República Checa;جمهورية التشيك;جمهوری چک;UE Balkans
+2021;ITA;41;76,61;77,37;76,61;72,27;41;76,31;0;Italie;Italy;Italia;إيطاليا;ایتالیا;UE Balkans
+2021;KOR;42;76,57;76,57;81,45;100;42;76,3;0;Corée du Sud;South Korea;Corea del Sur;كوريا الجنوبية;کره جنوبی;Asie-Pacifique
+2021;TWN;43;76,14;76,14;81,09;100;43;76,24;0;Taïwan;Taiwan;Taiwán;تايوان;تایوان;Asie-Pacifique
+2021;USA;44;76,07;79,97;76,07;60,3;45;76,15;1;États-Unis;United States;Estados Unidos;الولايات المتحدة;ایالات متحده امریکا;Amériques
+2021;XCD;45;76,02;76,03;81,05;100;44;76,22;-1;OECS;OECS;OECS;الكاريبي;جزایر کارائیب شرقی;Amériques
+2021;TON;46;75,41;75,41;80,64;100;50;72,73;4;Tonga;Tonga;Tonga;تونغا;تونگا;Asie-Pacifique
+2021;PNG;47;75,12;75,12;80,14;100;46;76,07;-1;Papouasie-Nouvelle-Guinée;Papua New Guinea;Papúa Nueva Guinea;بابوا غينيا الجديدة;پاپوآ گینه نو;Asie-Pacifique
+2021;ROU;48;75,09;75,09;80,25;100;48;74,09;0;Roumanie;Romania;Rumania;رومانيا;رومانی;UE Balkans
+2021;SEN;49;74,78;75,38;74,78;71,67;47;76,01;-2;Sénégal;Senegal;Senegal;السنغال;سنگال;Afrique
+2021;DOM;50;74,4;74,4;78,51;93,07;55;72,1;5;République dominicaine;Dominican Republic;República Dominicana;جمهورية الدومينيكان;جمهوری دومینیک;Amériques
+2021;GUY;51;74,39;74,39;79,7;100;49;73,37;-2;Guyana;Guyana;Guyana;غويانا;گیانا;Amériques
+2021;SYC;52;74,34;74,34;79,43;100;63;71,34;11;Seychelles;Seychelles;Seychelles;سيشيل;سی‌شل;Afrique
+2021;BLZ;53;72,39;72,39;78,11;100;53;72,5;0;Bélize;Belize;Belice;بليز;بلیز;Amériques
+2021;CHL;54;72,11;72,64;72,11;69,55;51;72,69;-3;Chili;Chile;Chile;تشيلي;شیلی;Amériques
+2021;FJI;55;72,08;72,08;77,79;100;52;72,59;-3;Fidji;Fiji;Fiyi;فيجي;فیجی;Asie-Pacifique
+2021;HRV;56;72,05;72,05;77,82;100;59;71,49;3;Croatie;Croatia;Croacia;كرواتيا;کرواسی;UE Balkans
+2021;MDG;57;71,76;71,76;77,36;100;54;72,32;-3;Madagascar;Madagascar;Madagascar;مدغشقر;ماداگاسکار;Afrique
+2021;BIH;58;71,66;71,66;75,35;89,01;58;71,49;0;Bosnie-Herzégovine;Bosnia and Herzegovina;Bosnia-Herzegovina;البوسنة والهرسك;بوسنی هرزوگوین;UE Balkans
+2021;NER;59;71,56;71,56;74,66;86,14;57;71,75;-2;Niger;Niger;Niger;النيجر;نیجر;Afrique
+2021;GEO;60;71,36;71,36;77,34;100;60;71,41;0;Géorgie;Georgia;Georgia;جورجيا;گرجستان;EEAC
+2021;MUS;61;71,26;71,26;77,14;100;56;72;-5;Maurice;Mauritius;Mauricio;موريشيوس;موریس;Afrique
+2021;MWI;62;71,2;71,2;73,35;82,08;69;70,68;7;Malawi;Malawi;Malaui;مالاوي;مالاوی;Afrique
+2021;ARM;63;71,17;71,17;74;83,91;61;71,4;-2;Arménie;Armenia;Armenia;أرمينيا;ارمنستان;EEAC
+2021;POL;64;71,16;71,98;71,16;66,68;62;71,35;-2;Pologne;Poland;Polonia;بولندا;لهستان;UE Balkans
+2021;BTN;65;71,14;71,14;77,07;100;67;71,1;2;Bhoutan;Bhutan;Bután;بوتان;بوتان;Asie-Pacifique
+2021;CIV;66;71,13;71,13;73,58;82,08;68;71,06;2;Côte d'Ivoire;Ivory Coast;Costa de Marfil;ساحل العاج;ساحل عاج;Afrique
+2021;JPN;67;71,12;71,12;76,95;100;66;71,14;-1;Japon;Japan;Japón;اليابان;ژاپن;Asie-Pacifique
+2021;MNG;68;71,03;71,03;76,86;100;73;70,39;5;Mongolie;Mongolia;Mongolia;منغوليا;مغولستان;Asie-Pacifique
+2021;ARG;69;71,01;71,01;74,69;89,01;64;71,22;-5;Argentine;Argentina;Argentina;الأرجنتين;آرژانتین;Amériques
+2021;GRC;70;70,99;71,57;70,99;67,81;65;71,2;-5;Grèce;Greece;Grecia;اليونان;یونان;UE Balkans
+2021;TLS;71;70,89;70,89;77,12;100;78;70,1;7;Timor oriental;East Timor;Timor Oriental;تيمور الشرقية;تیمور شرقی;Asie-Pacifique
+2021;MDV;72;70,87;70,87;76,66;100;79;70,07;7;Maldives;Maldives;Maldivas;المالديف;مالدیو;Asie-Pacifique
+2021;TUN;73;70,47;70,47;76,24;100;72;70,55;-1;Tunisie;Tunisia;Túnez;تونس;تونس;MENA
+2021;TGO;74;70,41;70,41;76,58;100;71;70,67;-3;Togo;Togo;Togo;توغو;توگو;Afrique
+2021;SLE;75;70,39;70,39;72,83;82,08;85;69,72;10;Sierra Leone;Sierra Leone;Sierra Leona;سيراليون;سئیرالئون;Afrique
+2021;CTU;76;70,18;70,18;76,3;100;77;70,21;1;Chypre (partie Nord);Cyprus North;Chipre Norte;قبرص (الجزء الشمالي);قبرس (شمالی);UE Balkans
+2021;PAN;77;70,06;70,06;76,17;100;76;70,22;-1;Panama;Panama;Panamá;بنما;پاناما;Amériques
+2021;XKO;78;69,68;69,68;72,21;80,54;70;70,67;-8;Kosovo;Kosovo;Kosovo;كوسوفو;کوسووو;UE Balkans
+2021;KGZ;79;69,63;69,64;72,22;80,54;82;69,81;3;Kirghizstan;Kyrgyzstan;Kirguistán;قرغيزستان;قرقیزستان;EEAC
+2021;HKG;80;69,56;69,56;73,14;86,14;80;69,99;0;Hong-Kong;Hong Kong;Hong Kong;هونغ كونغ;هنگ کنگ;Asie-Pacifique
+2021;MLT;81;69,54;69,54;75,99;100;81;69,84;0;Malte;Malta;Malta;مالطا;مالت;UE Balkans
+2021;SLV;82;69,51;69,51;75,92;100;74;70,3;-8;El Salvador;El Salvador;El Salvador;السلفادور;ال‌سالوادور;Amériques
+2021;ALB;83;69,41;69,41;71,02;76,02;84;69,75;1;Albanie;Albania;Albania;ألبانيا;آلبانی;UE Balkans
+2021;COM;84;69,35;69,35;74,43;93,07;75;70,23;-9;Comores;Comoros;Comoras;جزر القمر;کومور;Afrique
+2021;GMB;85;69,24;69,24;74,31;93,07;87;69,38;2;Gambie;Gambia;Gambia;غامبيا;گامبیا;Afrique
+2021;ISR;86;69,1;72,22;69,1;55,93;88;69,16;2;Israël;Israel;Israel;إسرائيل;اسرائیل;MENA
+2021;HTI;87;68,88;68,88;74,88;100;83;69,8;-4;Haïti;Haiti;Haití;هايتي;هايیتی;Amériques
+2021;LSO;88;68,39;68,46;72,5;89,01;86;69,55;-2;Lesotho;Lesotho;Lesoto;ليسوتو;لسو‌تو;Afrique
+2021;MDA;89;68,39;68,39;73,59;93,07;91;68,84;2;Moldavie;Moldova;Moldavia;مولدوفا;مولداوی;EEAC
+2021;MKD;90;68,33;68,33;75,1;100;92;68,72;2;Macédoine du Nord;North Macedonia;República de Macedonia del Norte;مقدونيا الشمالية;مقدونیه شمالی ;UE Balkans
+2021;PER;91;68,29;68,29;71,45;86,14;90;69,06;-1;Pérou;Peru;Peru;بيرو;پرو;Amériques
+2021;HUN;92;68,24;68,24;74,88;100;89;69,16;-3;Hongrie;Hungary;Hungría;المجر;مجارستان;UE Balkans
+2021;SRB;93;67,97;67,97;68,29;68,22;93;68,38;0;Serbie;Serbia;Serbia;صربيا;صربستان;UE Balkans
+2021;MRT;94;67,75;67,75;74,27;100;97;67,46;3;Mauritanie;Mauritania;Mauritania;موريتانيا;موریتانی;Afrique
+2021;GNB;95;67,32;67,32;73,98;100;94;67,94;-1;Guinée-Bissau;Guinea-Bissau;Guinea-Bisáu;غينيا بيساو;گینه بیسائو;Afrique
+2021;ECU;96;67,17;67,17;70,08;80,54;98;67,38;2;Équateur;Ecuador;Ecuador;الإكوادور;اکواتور;Amériques
+2021;UKR;97;67,04;71,63;67,04;48,07;96;67,48;-1;Ukraine;Ukraine;Ucrania;أوكرانيا;اوکراين;EEAC
+2021;LBR;98;66,64;66,64;68,28;72,27;95;67,75;-3;Liberia;Liberia;Liberia;ليبيريا;لیبریا;Afrique
+2021;MLI;99;66,5;66,5;71,98;93,07;108;65,88;9;Mali;Mali;Malí;مالي;مالی;Afrique
+2021;PRY;100;66,48;69,01;66,48;55;100;67,03;0;Paraguay;Paraguay;Paraguay;باراغواي;پاراگوئه;Amériques
+2021;ETH;101;66,37;66,37;66,95;69,09;99;67,18;-2;Éthiopie;Ethiopia;Etiopía;أثيوبيا;اتیوپی;Afrique
+2021;KEN;102;66,35;66,35;69,11;79,21;103;66,28;1;Kenya;Kenya;Kenia;كينيا;کنیا;Afrique
+2021;AGO;103;65,94;65,94;67,58;74,35;106;66,08;3;Angola;Angola;Angola;أنغولا;آنگولا;Afrique
+2021;MNE;104;65,67;65,67;68,66;78,03;105;66,17;1;Monténégro;Montenegro;Montenegro;الجبل الأسود;مونته‌نگرو;UE Balkans
+2021;KWT;105;65,64;65,64;72,63;100;109;65,7;4;Koweït;Kuwait;Kuwait;الكويت;کویت;MENA
+2021;NPL;106;65,38;65,38;68,22;79,21;112;64,9;6;Népal;Nepal;Nepal;نيبال;نپال;Asie-Pacifique
+2021;LBN;107;65,07;67,8;65,07;52,9;102;66,81;-5;Liban;Lebanon;Líbano;لبنان;لبنان;MENA
+2021;MOZ;108;64,61;64,61;69,15;86,14;104;66,21;-4;Mozambique;Mozambique;Mozambique;موزمبيق;موزامبیک;Afrique
+2021;GIN;109;64,58;64,58;68,09;82,08;110;65,66;1;Guinée;Guinea;Guinea;غينيا;گینه;Afrique
+2021;BOL;110;64,53;64,53;66,26;72,27;114;64,63;4;Bolivie;Bolivia;Bolivia;بوليفيا;بلیوی;Amériques
+2021;BRA;111;63,75;63,75;65,92;76,02;107;65,95;-4;Brésil;Brazil;Brasil;البرازيل;برزیل;Amériques
+2021;BGR;112;62,71;62,71;65,54;75,15;111;64,94;-1;Bulgarie;Bulgaria;Bulgaria;بلغاريا;بلغارستان;UE Balkans
+2021;IDN;113;62,6;62,6;70,15;100;119;63,18;6;Indonésie;Indonesia;Indonesia;أندونيسيا;اندونزی;Asie-Pacifique
+2021;BEN;114;61,82;61,82;69,76;100;113;64,89;-1;Bénin;Benin;Benín;بنين;بنین;Afrique
+2021;ZMB;115;61,79;61,79;69,87;100;120;63;5;Zambie;Zambia;Zambia;زامبيا;زامبیا;Afrique
+2021;GTM;116;61,55;61,55;66,88;86,14;116;64,26;0;Guatemala;Guatemala;Guatemala;غواتيمالا;گواتمالا;Amériques
+2021;GAB;117;61,4;61,4;69,31;100;121;62,8;4;Gabon;Gabon;República Gabonesa;الغابون;گابون;Afrique
+2021;COG;118;61,17;61,17;64,43;76,02;118;63,44;0;Congo;Congo;República del Congo;الكونغو;کنگو;Afrique
+2021;MYS;119;60,53;60,53;68,91;100;101;66,88;-18;Malaisie;Malaysia;Malasia;ماليزيا;مالزی;Asie-Pacifique
+2021;NGA;120;60,31;62,62;59,39;44,99;115;64,37;-5;Nigeria;Nigeria;Nigeria;نيجيريا;نیجریه;Afrique
+2021;NIC;121;60,02;60,02;62,9;72,92;117;64,19;-4;Nicaragua;Nicaragua;Nicaragua;نيكاراغوا;نیکاراگوئه;Amériques
+2021;AFG;122;59,81;65,6;59,81;36,72;122;62,3;0;Afghanistan;Afghanistan;Afganistán;أفغانستان;افغانستان;Asie-Pacifique
+2021;TCD;123;59,8;59,8;60,35;62,16;123;60,3;0;Tchad;Chad;Chad;تشاد;چاد;Afrique
+2021;TZA;124;59,31;59,31;67,79;100;124;59,75;0;Tanzanie;Tanzania;Tanzania;تنزانيا;تانزانیا;Afrique
+2021;UGA;125;58,81;58,81;59,68;60,68;125;59,05;0;Ouganda;Uganda;Uganda;أوغندا;اوگاندا;Afrique
+2021;CAF;126;58,08;58,08;66,75;100;132;57,13;6;République centrafricaine;Central African Republic;República Centroafricana;جمهورية أفريقيا الوسطى;جمهوری آفریقای مرکزی;Afrique
+2021;LKA;127;57,8;54,36;57,48;70,56;127;58,06;0;Sri Lanka;Sri Lanka;Sri Lanka;سري لانكا;سریلانکا;Asie-Pacifique
+2021;QAT;128;57,4;57,4;66,08;100;129;57,49;1;Qatar;Qatar;Catar;قطر;قطر;MENA
+2021;JOR;129;57,11;57,11;60,77;72,92;128;57,92;-1;Jordanie;Jordan;Jordania;الأردن;اردن;MENA
+2021;ZWE;130;56,88;56,88;58,87;65,34;126;59,05;-4;Zimbabwe;Zimbabwe;Zimbabue;زيمبابوي;زیمبابوه;Afrique
+2021;ARE;131;56,87;56,87;59,02;64,45;131;57,31;0;Émirats arabes unis;United Arab Emirates;Emiratos Árabes Unidos;الإمارات العربية المتحدة;امارات متحده عربی;MENA
+2021;PSE;132;56,82;56,82;59,73;70,56;137;55,91;5;Palestine;Palestine;Palestina;فلسطين;فلسطین;MENA
+2021;OMN;133;56,63;56,63;65,44;100;135;56,58;2;Oman;Oman;Omán;عمان;عمان;MENA
+2021;COL;134;56,26;56,56;56,26;54,36;130;57,34;-4;Colombie;Colombia;Colombia;كولومبيا;کلمبیا;Amériques
+2021;CMR;135;56,22;56,22;56,52;56,43;134;56,72;-1;Cameroun;Cameroon;Camerún;الكاميرون;کامرون;Afrique
+2021;MAR;136;56,06;58,14;55,7;44,79;133;57,12;-3;Maroc;Morocco;Marruecos;المغرب;مراکش;MENA
+2021;THA;137;54,78;55,85;54,78;47,02;140;55,06;3;Thaïlande;Thailand;Tailandia;تايلاند;تایلند;Asie-Pacifique
+2021;PHL;138;54,36;57,11;54,36;41,03;136;56,46;-2;Philippines;Philippines;Filipinas;الفلبين;فلیپین;Asie-Pacifique
+2021;SSD;139;54,22;54,22;57,57;69,55;138;55,51;-1;Soudan du Sud;South Sudan;Sudán del Sur;جمهورية جنوب السودان;سودان جنوبی;Afrique
+2021;MMR;140;53,86;53,86;57,15;69,09;139;55,23;-1;Birmanie;Myanmar;Birmania;بورما;برمه;Asie-Pacifique
+2021;SWZ;141;53,66;53,66;58,25;75,15;141;54,85;0;Eswatini;Eswatini;Esuatini;إسواتيني;اسواتینی ;Afrique
+2021;IND;142;53,44;56,53;53,44;39,27;142;54,67;0;Inde;India;India;الهند;هند;Asie-Pacifique
+2021;MEX;143;53,29;58,16;53,29;32,75;143;54,55;0;Mexique;Mexico;México;المكسيك;مکزیک;Amériques
+2021;KHM;144;53,16;53,16;56,33;66,68;144;54,54;0;Cambodge;Cambodia;Camboya;كمبوديا;کامبوج;Asie-Pacifique
+2021;PAK;145;53,14;55,84;53,14;40,36;145;54,48;0;Pakistan;Pakistan;Pakistán;باكستان;پاکستان;Asie-Pacifique
+2021;DZA;146;52,74;52,74;55,13;64,45;146;54,48;0;Algérie;Algeria;Argelia;الجزائر;الجزایر;MENA
+2021;BDI;147;52,43;52,43;54,41;60,68;160;44,67;13;Burundi;Burundi;Burundi;بوروندي;بروندی;Afrique
+2021;VEN;148;52,4;53,84;52,4;45,71;147;54,34;-1;Venezuela;Venezuela;Venezuela;فنزويلا;ونزوئلا;Amériques
+2021;COD;149;51,41;51,41;52,56;56,18;150;50,91;1;RD Congo;The Democratic Republic Of The Congo;RD Congo;جمهورية الكونغو الديمقراطية;جمهوری دمکراتیک کنگو;Afrique
+2021;RUS;150;51,29;52;51,29;47,02;149;51,08;-1;Russie;Russian Federation;Rusia;روسيا;روسیه;EEAC
+2021;HND;151;50,65;52,17;50,65;43,3;148;51,8;-3;Honduras;Honduras;Honduras;هندوراس;هندوراس;Amériques
+2021;BGD;152;50,29;50,29;50,52;48,94;151;50,63;-1;Bangladesh;Bangladesh;Bangladés;بنغلاديش;بنگلادش;Asie-Pacifique
+2021;TUR;153;50,21;53,86;50,21;33,88;154;49,98;1;Turquie;Turkey;Turquía;تركيا;ترکیه;EEAC
+2021;BRN;154;50,09;50,09;60,23;100;152;50,35;-2;Brunei;Brunei Darussalam;Brunéi;بروناي;برونی;Asie-Pacifique
+2021;KAZ;155;49,72;49,72;57,35;86,14;157;45,89;2;Kazakhstan;Kazakhstan;Kazajistán;كازاخستان;قزاقستان;EEAC
+2021;RWA;156;49,34;49,34;53,69;69,55;155;49,66;-1;Rwanda;Rwanda;Ruanda;رواندا;روندا;Afrique
+2021;UZB;157;49,26;49,26;56,88;86,14;156;46,93;-1;Ouzbékistan;Uzbekistan;Uzbekistán;أوزبكستان;اوزبکستان;EEAC
+2021;BLR;158;49,18;51,76;49,18;38,32;153;50,25;-5;Bélarus;Belarus;Belarús;روسيا البيضاء;روسیه سفید;EEAC
+2021;SDN;159;47,07;47,07;51,74;69,55;159;44,67;0;Soudan;Sudan;Sudán;السودان;سودان;Afrique
+2021;SGP;160;44,8;44,8;56,05;100;158;44,77;-2;Singapour;Singapore;Singapur;سنغافورة;سنگاپور;Asie-Pacifique
+2021;SOM;161;44,53;44,53;46,71;54,57;163;44,55;2;Somalie;Somalia;Somalia;الصومال;سومالی;Afrique
+2021;TJK;162;44,48;44,48;46,43;52,64;161;44,66;-1;Tadjikistan;Tajikistan;Tayikistán;طاجيكستان;تاجیکستان;EEAC
+2021;IRQ;163;44,43;46,43;44,43;35,29;162;44,63;-1;Irak;Iraq;Irak;العراق;عراق;MENA
+2021;GNQ;164;44,33;44,33;55,18;100;165;43,62;1;Guinée équatoriale;Equatorial Guinea;Guinea Ecuatorial;غينيا الاستوائية;گینه اکوادور;Afrique
+2021;LBY;165;44,27;44,27;46,48;53,95;164;44,23;-1;Libye;Libya;Libia;ليبيا;لیبی;MENA
+2021;EGY;166;43,83;45,33;43,83;35,87;166;43,18;0;Égypte;Egypt;Egipto;مصر;مصر;MENA
+2021;AZE;167;41,23;41,23;43,18;49,76;168;41,52;1;Azerbaïdjan;Azerbaijan;Azerbaiyán;أذربيجان;آذربایجان;EEAC
+2021;BHR;168;38,9;39,89;38,9;35,09;169;39,87;1;Bahreïn;Bahrain;Baréin;البحرين;بحرین;MENA
+2021;YEM;169;37,65;37,65;39,71;46,67;167;41,75;-2;Yémen;Yemen;Yemen;اليمن;یمن;MENA
+2021;SAU;170;37,27;38,85;37,27;28,93;170;37,86;0;Arabie saoudite;Saudi Arabia;Arabia Saudita;المملكة العربية السعودية;عربستان سعودی;MENA
+2021;CUB;171;36,06;36,07;48,64;100;171;36,19;0;Cuba;Cuba;Cuba;كوبا;کوبا;Amériques
+2021;LAO;172;29,44;29,44;32,15;42,47;172;35,72;0;Laos;Lao People's Democratic Republic;Laos;لاوس;لائوس;Asie-Pacifique
+2021;SYR;173;29,37;31,89;29,37;17,41;174;27,43;1;Syrie;Syrian Arab Republic;Siria;سوريا;سوریه;MENA
+2021;IRN;174;27,3;29,89;30,58;32,61;173;35,19;-1;Iran;Islamic Republic of Iran;Irán;إيران;ایران;MENA
+2021;VNM;175;21,54;24,82;26,11;31,96;175;25,29;0;Viêt Nam;Vietnam;Vietnam;فيتنام;ویتنام;Asie-Pacifique
+2021;DJI;176;21,38;21,38;34,96;89,01;176;23,27;0;Djibouti;Djibouti;Yibuti;جيبوتي;جیبوتی;Afrique
+2021;CHN;177;21,28;21,9;21,28;18,23;177;21,52;0;Chine;China;China;الصين;چین;Asie-Pacifique
+2021;TKM;178;19,97;19,97;36,09;100;179;14,56;1;Turkménistan;Turkmenistan;Turkmenistán;تركمانستان;ترکمنستان;EEAC
+2021;PRK;179;18,72;18,72;24,55;48,07;180;14,18;1;Corée du Nord;Democratic People's Republic of Korea;Corea del Norte;كوريا الشمالية;کره شمالی;Asie-Pacifique
+2021;ERI;180;18,55;17,95;19,71;26,95;178;16,5;-2;Érythrée;Eritrea;Eritrea;إريتريا;اریتره;Afrique

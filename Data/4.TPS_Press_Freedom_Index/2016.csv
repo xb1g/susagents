@@ -1,0 +1,181 @@
+Year (N);ISO;Rank N;Score N;Score N without the exactions;Score N with the exactions;Score exactions;Rank N-1;Score N-1;Rank evolution;FR_country;EN_country;ES_country;AR_country;FA_country;Zone
+2016;FIN;1;91,41;86,69;;86,14;1;92,48;0;Finlande;Finland;Finlandia;فنلندا;فنلاند;UE Balkans
+2016;NLD;2;91,24;89,99;;44,24;4;90,78;2;Pays-Bas;Netherlands;Países Bajos;هولندا;هلند;UE Balkans
+2016;NOR;3;91,21;81,09;;72,92;2;92,25;-1;Norvège;Norway;Noruega;النرويج;نروژ;UE Balkans
+2016;DNK;4;91,11;91,11;;100;3;91,76;-1;Danemark;Denmark;Dinamarca;الدنمارك;دانمارک;UE Balkans
+2016;NZL;5;89,99;71,18;;83,91;6;89,94;1;Nouvelle-Zélande;New Zealand;Nueva Zelanda;نيوزيلاندا;زلاند نو;Asie-Pacifique
+2016;CRI;6;88,9;88,9;;100;16;87,74;10;Costa Rica;Costa Rica;Costa Rica;كوستاريكا;کاستاریکا;Amériques
+2016;CHE;7;88,24;88,24;;100;20;86,15;13;Suisse;Switzerland;Suiza;سويسرا;سويیس;UE Balkans
+2016;SWE;8;87,67;87,67;;38,08;5;90,53;-3;Suède;Sweden;Suecia;السويد;سوئد;UE Balkans
+2016;IRL;9;87,6;35,09;;72,92;11;88,8;2;Irlande;Ireland;Irlanda;أيرلندا;ایرلند;UE Balkans
+2016;JAM;10;87,55;71,33;;100;9;88,82;-1;Jamaïque;Jamaica;Jamaica;جامايكا;جامائیکا;Amériques
+2016;AUT;11;86,82;86,82;;27;7;89,15;-4;Autriche;Austria;Austria;النمسا;اتریش;UE Balkans
+2016;SVK;12;86,74;77,74;;93,07;14;88,34;2;Slovaquie;Slovakia;Eslovaquia;سلوفاكيا;اسلواکی;UE Balkans
+2016;BEL;13;85,82;85,82;;100;15;88,02;2;Belgique;Belgium;Bélgica;بلجيكا;بلژیک;UE Balkans
+2016;EST;14;85,69;85,69;;47,07;10;88,81;-4;Estonie;Estonia;Estonia;إستونيا;استونی;UE Balkans
+2016;LUX;15;85,57;63,91;;100;19;86,39;4;Luxembourg;Luxembourg;Luxemburgo;لوكسمبورغ;لوکزامبورگ;UE Balkans
+2016;DEU;16;85,2;82,05;;100;12;88,53;-4;Allemagne;Germany;Alemania;ألمانيا;آلمان;UE Balkans
+2016;NAM;17;84,85;67,38;;100;17;87,5;0;Namibie;Namibia;Namibia;ناميبيا;نامیبیا;Afrique
+2016;CAN;18;84,74;84,74;;100;8;89,01;-10;Canada;Canada;Canadá;كندا;کانادا;Amériques
+2016;ISL;19;84,7;62,11;;100;21;86,13;2;Islande;Iceland;Islandia;أيسلندا;ایسلند;UE Balkans
+2016;URY;20;84,12;84,12;;55,95;23;84,06;3;Uruguay;Uruguay;Uruguay;أوروغواي;اروگويه;Amériques
+2016;CZE;21;83,34;83,34;;72,92;13;88,38;-8;République tchèque;Czech Republic;República Checa;جمهورية التشيك;جمهوری چک;UE Balkans
+2016;SUR;22;83,3;47,63;;100;29;81,8;7;Suriname;Suriname;Surinam;سورينام;سورینام;Amériques
+2016;PRT;23;82,73;64,03;;100;26;82,89;3;Portugal;Portugal;Portugal;البرتغال;پرتغال;UE Balkans
+2016;LVA;24;82,62;68,11;;100;28;81,88;4;Lettonie;Latvia;Letonia;لاتفيا;لتوانی;UE Balkans
+2016;AUS;25;82,16;82,16;;100;25;82,97;0;Australie;Australia;Australia;أستراليا;استرالیا;Asie-Pacifique
+2016;GHA;26;82,05;69,65;;69,55;22;84,5;-4;Ghana;Ghana;Ghana;غانا;غنا;Afrique
+2016;CYP;27;81,74;81,74;;86,14;24;83,48;-3;Chypre;Cyprus;Chipre;قبرص;قبرس;UE Balkans
+2016;LIE;28;81,64;80,05;;100;27;82,33;-1;Liechtenstein;Liechtenstein;Liechtenstein;ليختنشتاين;لیختن‌اشتاین;UE Balkans
+2016;WSM;29;81,2;40,28;;100;40;77,68;11;Samoa;Samoa;Samoa;ساموا;ساموآ;Asie-Pacifique
+2016;XCD;30;81,09;59,57;;33,19;37;78,98;7;OECS;OECS;OECS;الكاريبي;جزایر کارائیب شرقی;Amériques
+2016;CHL;31;80,77;80,77;;42,8;43;77;12;Chili;Chile;Chile;تشيلي;شیلی;Amériques
+2016;CPV;32;80,18;80,18;;100;36;79,31;4;Cap-Vert;Cape Verde;Cabo Verde;الرأس الأخضر;کیپورد;Afrique
+2016;AND;33;80,13;80,13;;100;32;80,13;-1;Andorre;Andorra;Andorra;أندورا;آندور;UE Balkans
+2016;ESP;34;80,08;55,66;;100;33;80,05;-1;Espagne;Spain;España;إسبانيا;اسپانیا;UE Balkans
+2016;LTU;35;80,05;85,57;;78,03;31;81,2;-4;Lituanie;Lithuania;Lituania;ليتوانيا;لیتوانی;UE Balkans
+2016;BLZ;36;79,39;79,39;;100;30;81,46;-6;Bélize;Belize;Belice;بليز;بلیز;Amériques
+2016;TON;37;78,76;78,76;;100;44;76,63;7;Tonga;Tonga;Tonga;تونغا;تونگا;Asie-Pacifique
+2016;GBR;38;78,3;78,3;;75,15;34;80;-4;Royaume-Uni;United Kingdom;Reino Unido;المملكة المتحدة;بریتانیا;UE Balkans
+2016;ZAF;39;78,08;71,42;;70,56;39;77,94;0;Afrique du Sud;South Africa;Sudáfrica;جنوب أفريقيا;آفریقای جنوبی;Afrique
+2016;SVN;40;77,74;34,65;;86,14;35;79,45;-5;Slovénie;Slovenia;Eslovenia;سلوفينيا;اسلوانی;UE Balkans
+2016;USA;41;77,51;77,51;;26,12;49;75,59;8;États-Unis;United States;Estados Unidos;الولايات المتحدة;ایالات متحده امریکا;Amériques
+2016;BFA;42;77,34;78,63;;100;46;76,21;4;Burkina Faso;Burkina Faso;Burkina Faso;بوركينا فاسو;بورکینافاسو;Afrique
+2016;BWA;43;77,09;77,09;;93,07;42;77,09;-1;Botswana;Botswana;Botsuana;بوتسوانا;بوستاوانا;Afrique
+2016;TTO;44;76,71;76,71;;40,16;41;77,61;-3;Trinité-et-Tobago;Trinidad and Tobago;Trinidad y Tobago;ترينيداد وتوباغو;ترنتی و توبوگو;Amériques
+2016;FRA;45;76,17;67,8;;100;38;78,85;-7;France;France;Francia;فرنسا;فرانسه;UE Balkans
+2016;MLT;46;76,16;75,97;;44,2;48;75,84;2;Malte;Malta;Malta;مالطا;مالت;UE Balkans
+2016;POL;47;76,11;82,73;;26,06;18;87,29;-29;Pologne;Poland;Polonia;بولندا;لهستان;UE Balkans
+2016;MRT;48;75,97;72,31;;54,89;55;74,73;7;Mauritanie;Mauritania;Mauritania;موريتانيا;موریتانی;Afrique
+2016;ROU;49;75,71;51,47;;49,96;52;75,1;3;Roumanie;Romania;Rumania;رومانيا;رومانی;UE Balkans
+2016;COM;50;75,67;75,67;;100;50;75,48;0;Comores;Comoros;Comoras;جزر القمر;کومور;Afrique
+2016;TWN;51;75,63;75,63;;82,08;51;75,17;0;Taïwan;Taiwan;Taiwán;تايوان;تایوان;Asie-Pacifique
+2016;NER;52;75,38;68,35;;82,08;47;76,15;-5;Niger;Niger;Niger;النيجر;نیجر;Afrique
+2016;HTI;53;75,34;60,85;;100;53;74,92;0;Haïti;Haiti;Haití;هايتي;هايیتی;Amériques
+2016;ARG;54;74,91;74,91;;100;57;73,89;3;Argentine;Argentina;Argentina;الأرجنتين;آرژانتین;Amériques
+2016;PNG;55;74,19;66,37;;70,56;56;74,13;1;Papouasie-Nouvelle-Guinée;Papua New Guinea;Papúa Nueva Guinea;بابوا غينيا الجديدة;پاپوآ گینه نو;Asie-Pacifique
+2016;MDG;56;72,96;71,88;;68,65;64;72,57;8;Madagascar;Madagascar;Madagascar;مدغشقر;ماداگاسکار;Afrique
+2016;GUY;57;72,93;75,34;;100;62;72,79;5;Guyana;Guyana;Guyana;غويانا;گیانا;Amériques
+2016;SLV;58;72,8;72,8;;42,16;45;76,34;-13;El Salvador;El Salvador;El Salvador;السلفادور;ال‌سالوادور;Amériques
+2016;SRB;59;72,4;69,4;;79,21;67;72,34;8;Serbie;Serbia;Serbia;صربيا;صربستان;UE Balkans
+2016;MNG;60;72,39;67,21;;76,97;54;74,75;-6;Mongolie;Mongolia;Mongolia;منغوليا;مغولستان;Asie-Pacifique
+2016;MUS;61;72,31;55,48;;83,91;68;72,31;7;Maurice;Mauritius;Mauricio;موريشيوس;موریس;Afrique
+2016;DOM;62;72,1;72,1;;54,89;63;72,69;1;République dominicaine;Dominican Republic;República Dominicana;جمهورية الدومينيكان;جمهوری دومینیک;Amériques
+2016;HRV;63;72,09;74,46;;47,58;58;73,88;-5;Croatie;Croatia;Croacia;كرواتيا;کرواسی;UE Balkans
+2016;GEO;64;72,04;90,79;;100;69;72,3;5;Géorgie;Georgia;Georgia;جورجيا;گرجستان;EEAC
+2016;SEN;65;72,01;73,34;;75,15;71;72,23;6;Sénégal;Senegal;Senegal;السنغال;سنگال;Afrique
+2016;MWI;66;71,88;53,43;;68,65;59;73,59;-7;Malawi;Malawi;Malaui;مالاوي;مالاوی;Afrique
+2016;HUN;67;71,83;84,7;;79,21;65;72,56;-2;Hongrie;Hungary;Hungría;المجر;مجارستان;UE Balkans
+2016;BIH;68;71,55;71,55;;100;66;72,49;-2;Bosnie-Herzégovine;Bosnia and Herzegovina;Bosnia-Herzegovina;البوسنة والهرسك;بوسنی هرزوگوین;UE Balkans
+2016;HKG;69;71,5;71,83;;82,08;70;72,24;1;Hong-Kong;Hong Kong;Hong Kong;هونغ كونغ;هنگ کنگ;Asie-Pacifique
+2016;KOR;70;71,42;59,68;;100;60;73,45;-10;Corée du Sud;South Korea;Corea del Sur;كوريا الجنوبية;کره جنوبی;Asie-Pacifique
+2016;TZA;71;71,35;71,35;;33;75;71,91;4;Tanzanie;Tanzania;Tanzania;تنزانيا;تانزانیا;Afrique
+2016;JPN;72;71,33;55,51;;100;61;73,05;-11;Japon;Japan;Japón;اليابان;ژاپن;Asie-Pacifique
+2016;LSO;73;71,22;69,29;;72,27;77;71,64;4;Lesotho;Lesotho;Lesoto;ليسوتو;لسو‌تو;Afrique
+2016;ARM;74;71,21;72,43;;100;78;71,57;4;Arménie;Armenia;Armenia;أرمينيا;ارمنستان;EEAC
+2016;NIC;75;71,18;75,99;;100;74;72,06;-1;Nicaragua;Nicaragua;Nicaragua;نيكاراغوا;نیکاراگوئه;Amériques
+2016;MDA;76;71,17;72,39;;61,71;72;72,15;-4;Moldavie;Moldova;Moldavia;مولدوفا;مولداوی;EEAC
+2016;ITA;77;71,07;69,83;;100;73;72,06;-4;Italie;Italy;Italia;إيطاليا;ایتالیا;UE Balkans
+2016;BEN;78;71,03;71,03;;86,14;84;70,76;6;Bénin;Benin;Benín;بنين;بنین;Afrique
+2016;GNB;79;70,97;72,93;;62,62;81;71,3;2;Guinée-Bissau;Guinea-Bissau;Guinea-Bisáu;غينيا بيساو;گینه بیسائو;Afrique
+2016;FJI;80;70,63;91,41;;100;93;68,72;13;Fidji;Fiji;Fiyi;فيجي;فیجی;Asie-Pacifique
+2016;CTU;81;70,46;70,46;;100;76;71,67;-5;Chypre (partie Nord);Cyprus North;Chipre Norte;قبرص (الجزء الشمالي);قبرس (شمالی);UE Balkans
+2016;ALB;82;70,08;70,08;;100;82;71,23;0;Albanie;Albania;Albania;ألبانيا;آلبانی;UE Balkans
+2016;SLE;83;70,06;47,04;;93,07;79;71,53;-4;Sierra Leone;Sierra Leone;Sierra Leona;سيراليون;سئیرالئون;Afrique
+2016;PER;84;70,01;59,95;;82,08;92;68,79;8;Pérou;Peru;Peru;بيرو;پرو;Amériques
+2016;KGZ;85;69,84;28,42;;100;88;69,31;3;Kirghizstan;Kyrgyzstan;Kirguistán;قرغيزستان;قرقیزستان;EEAC
+2016;CIV;86;69,83;87,55;;100;86;69,55;0;Côte d'Ivoire;Ivory Coast;Costa de Marfil;ساحل العاج;ساحل عاج;Afrique
+2016;MOZ;87;69,75;55,77;;51,4;85;70,02;-2;Mozambique;Mozambique;Mozambique;موزمبيق;موزامبیک;Afrique
+2016;TGO;88;69,69;69,69;;42,41;80;71,5;-8;Togo;Togo;Togo;توغو;توگو;Afrique
+2016;GRC;89;69,65;66,21;;68,65;91;68,99;2;Grèce;Greece;Grecia;اليونان;یونان;UE Balkans
+2016;XKO;90;69,5;68,22;;9,56;87;69,37;-3;Kosovo;Kosovo;Kosovo;كوسوفو;کوسووو;UE Balkans
+2016;PAN;91;69,41;74,19;;76,02;83;71,02;-8;Panama;Panama;Panamá;بنما;پاناما;Amériques
+2016;SYC;92;69,4;70,06;;39,74;96;68,45;4;Seychelles;Seychelles;Seychelles;سيشيل;سی‌شل;Afrique
+2016;LBR;93;69,29;44,56;;89,01;89;69,22;-4;Liberia;Liberia;Liberia;ليبيريا;لیبریا;Afrique
+2016;BTN;94;69,27;69,27;;67,81;104;67,35;10;Bhoutan;Bhutan;Bután;بوتان;بوتان;Asie-Pacifique
+2016;KEN;95;68,84;73,13;;43,58;100;67,93;5;Kenya;Kenya;Kenia;كينيا;کنیا;Afrique
+2016;TUN;96;68,4;68,4;;34,63;126;61,32;30;Tunisie;Tunisia;Túnez;تونس;تونس;MENA
+2016;BOL;97;68,22;68,22;;100;94;68,71;-3;Bolivie;Bolivia;Bolivia;بوليفيا;بلیوی;Amériques
+2016;LBN;98;68,05;71,22;;93,07;98;68,19;0;Liban;Lebanon;Líbano;لبنان;لبنان;MENA
+2016;TLS;99;67,98;67,98;;54,25;103;67,37;4;Timor oriental;East Timor;Timor Oriental;تيمور الشرقية;تیمور شرقی;Asie-Pacifique
+2016;GAB;100;67,8;53,57;;100;95;68,62;-5;Gabon;Gabon;República Gabonesa;الغابون;گابون;Afrique
+2016;ISR;101;67,42;73,41;;100;101;67,91;0;Israël;Israel;Israel;إسرائيل;اسرائیل;MENA
+2016;UGA;102;67,42;67,42;;83,91;97;68,35;-5;Ouganda;Uganda;Uganda;أوغندا;اوگاندا;Afrique
+2016;KWT;103;67,41;69,84;;45,03;90;69,16;-13;Koweït;Kuwait;Kuwait;الكويت;کویت;MENA
+2016;BRA;104;67,38;74,22;;100;99;68,07;-5;Brésil;Brazil;Brasil;البرازيل;برزیل;Amériques
+2016;NPL;105;67,38;91,24;;100;105;67,29;0;Népal;Nepal;Nepal;نيبال;نپال;Asie-Pacifique
+2016;MNE;106;67,21;57,36;;72,27;114;65,37;8;Monténégro;Montenegro;Montenegro;الجبل الأسود;مونته‌نگرو;UE Balkans
+2016;UKR;107;67,07;72,79;;100;129;60,9;22;Ukraine;Ukraine;Ucrania;أوكرانيا;اوکراين;EEAC
+2016;GIN;108;66,92;70,97;;33,54;102;67,44;-6;Guinée;Guinea;Guinea;غينيا;گینه;Afrique
+2016;ECU;109;66,79;66,79;;100;108;66,35;-1;Équateur;Ecuador;Ecuador;الإكوادور;اکواتور;Amériques
+2016;CAF;110;66,4;66,4;;74,35;110;66,16;0;République centrafricaine;Central African Republic;República Centroafricana;جمهورية أفريقيا الوسطى;جمهوری آفریقای مرکزی;Afrique
+2016;PRY;111;66,37;74,66;;83,91;109;66,26;-2;Paraguay;Paraguay;Paraguay;باراغواي;پاراگوئه;Amériques
+2016;MDV;112;65,83;60,17;;70,04;112;65,68;0;Maldives;Maldives;Maldivas;المالديف;مالدیو;Asie-Pacifique
+2016;BGR;113;65,54;65,54;;93,07;106;67,09;-7;Bulgarie;Bulgaria;Bulgaria;بلغاريا;بلغارستان;UE Balkans
+2016;ZMB;114;64,92;64,92;;44,05;113;65,65;-1;Zambie;Zambia;Zambia;زامبيا;زامبیا;Afrique
+2016;COG;115;64,16;68,98;;52,55;107;67;-8;Congo;Congo;República del Congo;الكونغو;کنگو;Afrique
+2016;NGA;116;64,1;91,21;;82,08;111;65,91;-5;Nigeria;Nigeria;Nigeria;نيجيريا;نیجریه;Afrique
+2016;QAT;117;64,03;75,71;;62,16;115;64,65;-2;Qatar;Qatar;Catar;قطر;قطر;MENA
+2016;MKD;118;63,91;72,96;;100;117;63,74;-1;Macédoine du Nord;North Macedonia;República de Macedonia del Norte;مقدونيا الشمالية;مقدونیه شمالی ;UE Balkans
+2016;ARE;119;63,27;63,27;;100;120;63,27;1;Émirats arabes unis;United Arab Emirates;Emiratos Árabes Unidos;الإمارات العربية المتحدة;امارات متحده عربی;MENA
+2016;AFG;120;62,25;66,75;;34,11;122;62,56;2;Afghanistan;Afghanistan;Afganistán;أفغانستان;افغانستان;Asie-Pacifique
+2016;GTM;121;61,97;66,92;;80,54;124;62,08;3;Guatemala;Guatemala;Guatemala;غواتيمالا;گواتمالا;Amériques
+2016;MLI;122;60,17;76,16;;70,04;118;63,67;-4;Mali;Mali;Malí;مالي;مالی;Afrique
+2016;AGO;123;60,11;60,11;;100;123;62,16;0;Angola;Angola;Angola;أنغولا;آنگولا;Afrique
+2016;ZWE;124;59,59;59,59;;25,76;131;60,81;7;Zimbabwe;Zimbabwe;Zimbabue;زيمبابوي;زیمبابوه;Afrique
+2016;OMN;125;59,57;53,09;;73,61;127;61,17;2;Oman;Oman;Omán;عمان;عمان;MENA
+2016;CMR;126;59,47;59,47;;100;133;60,37;7;Cameroun;Cameroon;Camerún;الكاميرون;کامرون;Afrique
+2016;TCD;127;59,41;59,41;;100;135;59,83;8;Tchad;Chad;Chad;تشاد;چاد;Afrique
+2016;KHM;128;59,3;59,3;;49,5;139;59,01;11;Cambodge;Cambodia;Camboya;كمبوديا;کامبوج;Asie-Pacifique
+2016;DZA;129;58,31;58,31;;100;119;63,37;-10;Algérie;Algeria;Argelia;الجزائر;الجزایر;MENA
+2016;IDN;130;58,28;50,55;;100;138;59,25;8;Indonésie;Indonesia;Indonesia;أندونيسيا;اندونزی;Asie-Pacifique
+2016;MAR;131;57,36;73,49;;53,04;130;60,81;-1;Maroc;Morocco;Marruecos;المغرب;مراکش;MENA
+2016;PSE;132;57,07;69,41;;43,03;140;58,99;8;Palestine;Palestine;Palestina;فلسطين;فلسطین;MENA
+2016;IND;133;56,83;58,28;;66,33;136;59,51;3;Inde;India;India;الهند;هند;Asie-Pacifique
+2016;COL;134;55,89;59,1;;100;128;60,92;-6;Colombie;Colombia;Colombia;كولومبيا;کلمبیا;Amériques
+2016;JOR;135;55,51;45,45;;76,97;143;57,93;8;Jordanie;Jordan;Jordania;الأردن;اردن;MENA
+2016;THA;136;55,47;56,85;;71,1;134;59,93;-2;Thaïlande;Thailand;Tailandia;تايلاند;تایلند;Asie-Pacifique
+2016;HND;137;55,38;71,5;;93,07;132;60,73;-5;Honduras;Honduras;Honduras;هندوراس;هندوراس;Amériques
+2016;PHL;138;55,34;81,44;;83,91;141;58,81;3;Philippines;Philippines;Filipinas;الفلبين;فلیپین;Asie-Pacifique
+2016;VEN;139;55,23;55,23;;100;137;59,39;-2;Venezuela;Venezuela;Venezuela;فنزويلا;ونزوئلا;Amériques
+2016;SSD;140;55,13;80,08;;39,55;125;61,96;-15;Soudan du Sud;South Sudan;Sudán del Sur;جمهورية جنوب السودان;سودان جنوبی;Afrique
+2016;LKA;141;55,04;27,47;;55;165;39,72;24;Sri Lanka;Sri Lanka;Sri Lanka;سري لانكا;سریلانکا;Asie-Pacifique
+2016;ETH;142;54,87;70,63;;33,5;142;58,17;0;Éthiopie;Ethiopia;Etiopía;أثيوبيا;اتیوپی;Afrique
+2016;MMR;143;54,52;84,85;;100;144;57,92;1;Birmanie;Myanmar;Birmania;بورما;برمه;Asie-Pacifique
+2016;BGD;144;54,06;57,04;;76,02;146;57,05;2;Bangladesh;Bangladesh;Bangladés;بنغلاديش;بنگلادش;Asie-Pacifique
+2016;GMB;145;53,47;72,04;;100;151;55,5;6;Gambie;Gambia;Gambia;غامبيا;گامبیا;Afrique
+2016;MYS;146;53,43;65,83;;44,87;147;56,71;1;Malaisie;Malaysia;Malasia;ماليزيا;مالزی;Asie-Pacifique
+2016;PAK;147;51,48;61,45;;45,03;159;49,54;12;Pakistan;Pakistan;Pakistán;باكستان;پاکستان;Asie-Pacifique
+2016;RUS;148;50,97;45,39;;100;152;55,03;4;Russie;Russian Federation;Rusia;روسيا;روسیه;EEAC
+2016;MEX;149;50,67;71,17;;40,04;148;56,31;-1;Mexique;Mexico;México;المكسيك;مکزیک;Amériques
+2016;TJK;150;49,66;49,66;;100;116;63,81;-34;Tadjikistan;Tajikistan;Tayikistán;طاجيكستان;تاجیکستان;EEAC
+2016;TUR;151;49,24;52,03;;100;149;55,84;-2;Turquie;Turkey;Turquía;تركيا;ترکیه;EEAC
+2016;COD;152;49,03;49,03;;100;150;55,69;-2;RD Congo;The Democratic Republic Of The Congo;RD Congo;جمهورية الكونغو الديمقراطية;جمهوری دمکراتیک کنگو;Afrique
+2016;SWZ;153;47,63;58,65;;86,14;155;52,72;2;Eswatini;Eswatini;Esuatini;إسواتيني;اسواتینی ;Afrique
+2016;SGP;154;47,04;86,74;;100;153;54,13;-1;Singapour;Singapore;Singapur;سنغافورة;سنگاپور;Asie-Pacifique
+2016;BRN;155;46,15;46,15;;93,07;121;63,24;-34;Brunei;Brunei Darussalam;Brunéi;بروناي;برونی;Asie-Pacifique
+2016;BDI;156;45,9;46,77;;100;145;57,07;-11;Burundi;Burundi;Burundi;بوروندي;بروندی;Afrique
+2016;BLR;157;45,68;45,68;;35,72;157;52,02;0;Bélarus;Belarus;Belarús;روسيا البيضاء;روسیه سفید;EEAC
+2016;IRQ;158;45,65;87,6;;82,08;156;52,24;-2;Irak;Iraq;Irak;العراق;عراق;MENA
+2016;EGY;159;45,55;47,71;;48,94;158;49,83;-1;Égypte;Egypt;Egipto;مصر;مصر;MENA
+2016;KAZ;160;45,45;72,49;;36,9;160;46,54;0;Kazakhstan;Kazakhstan;Kazajistán;كازاخستان;قزاقستان;EEAC
+2016;RWA;161;45,39;81,2;;54,78;161;43,43;0;Rwanda;Rwanda;Ruanda;رواندا;روندا;Afrique
+2016;BHR;162;45,14;46,39;;68,65;163;41,31;1;Bahreïn;Bahrain;Baréin;البحرين;بحرین;MENA
+2016;AZE;163;42,11;43,98;;100;162;41,59;-1;Azerbaïdjan;Azerbaijan;Azerbaiyán;أذربيجان;آذربایجان;EEAC
+2016;LBY;164;42,11;81,64;;32,28;154;54,01;-10;Libye;Libya;Libia;ليبيا;لیبی;MENA
+2016;SAU;165;40,28;72,01;;67,81;164;40,59;-1;Arabie saoudite;Saudi Arabia;Arabia Saudita;المملكة العربية السعودية;عربستان سعودی;MENA
+2016;UZB;166;38,85;40,32;;52,9;166;38,86;0;Ouzbékistan;Uzbekistan;Uzbekistán;أوزبكستان;اوزبکستان;EEAC
+2016;SOM;167;34,65;78,08;;93,07;172;27,69;5;Somalie;Somalia;Somalia;الصومال;سومالی;Afrique
+2016;GNQ;168;33,53;33,53;;62,86;167;33,77;-1;Guinée équatoriale;Equatorial Guinea;Guinea Ecuatorial;غينيا الاستوائية;گینه اکوادور;Afrique
+2016;IRN;169;33,48;70,29;;93,07;173;27,68;4;Iran;Islamic Republic of Iran;Irán;إيران;ایران;MENA
+2016;YEM;170;32,93;34,63;;15,64;168;33,64;-2;Yémen;Yemen;Yemen;اليمن;یمن;MENA
+2016;CUB;171;29,77;29,77;;39,74;169;29,79;-2;Cuba;Cuba;Cuba;كوبا;کوبا;Amériques
+2016;DJI;172;29,1;29,1;;100;170;28,96;-2;Djibouti;Djibouti;Yibuti;جيبوتي;جیبوتی;Afrique
+2016;LAO;173;28,42;82,62;;64,16;171;28,75;-2;Laos;Lao People's Democratic Republic;Laos;لاوس;لائوس;Asie-Pacifique
+2016;SDN;174;27,47;83,3;;93,07;174;27,66;0;Soudan;Sudan;Sudán;السودان;سودان;Afrique
+2016;VNM;175;25,73;25,73;;100;175;27,37;0;Viêt Nam;Vietnam;Vietnam;فيتنام;ویتنام;Asie-Pacifique
+2016;CHN;176;19,04;21,41;;68,65;176;26,45;0;Chine;China;China;الصين;چین;Asie-Pacifique
+2016;SYR;177;18,65;19,4;;100;177;22,71;0;Syrie;Syrian Arab Republic;Siria;سوريا;سوریه;MENA
+2016;TKM;178;16,56;16,56;;36,94;178;19,17;0;Turkménistan;Turkmenistan;Turkmenistán;تركمانستان;ترکمنستان;EEAC
+2016;PRK;179;16,24;16,24;;54,78;179;16,75;0;Corée du Nord;Democratic People's Republic of Korea;Corea del Norte;كوريا الشمالية;کره شمالی;Asie-Pacifique
+2016;ERI;180;16,08;16,08;;100;180;15,14;0;Érythrée;Eritrea;Eritrea;إريتريا;اریتره;Afrique

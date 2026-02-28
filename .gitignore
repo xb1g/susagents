@@ -1,0 +1,10 @@
+.venv
+venv
+__pycache__
+.ipynb_checkpoints
+.env
+Data/CSR_combo_pred.pkl
+Data/EGD_combo_pred.pkl
+Data/xlnet_model
+neo4j_db/
+models

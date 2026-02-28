@@ -1,0 +1,181 @@
+Year (N);ISO;Rank N;Score N;Score N without the exactions;Score N with the exactions;Score exactions;Rank N-1;Score N-1;Rank evolution;FR_country;EN_country;ES_country;AR_country;FA_country;Zone
+2014;FIN;1;93,6;;;;1;93,62;0;Finlande;Finland;Finlandia;فنلندا;فنلاند;UE Balkans
+2014;NLD;2;93,54;;;;2;93,52;0;Pays-Bas;Netherlands;Países Bajos;هولندا;هلند;UE Balkans
+2014;NOR;3;93,48;;;;3;93,48;0;Norvège;Norway;Noruega;النرويج;نروژ;UE Balkans
+2014;LUX;4;93,3;;;;4;93,32;0;Luxembourg;Luxembourg;Luxemburgo;لوكسمبورغ;لوکزامبورگ;UE Balkans
+2014;AND;5;93,18;;;;5;93,18;0;Andorre;Andorra;Andorra;أندورا;آندور;UE Balkans
+2014;LIE;6;92,98;;;;7;92,65;1;Liechtenstein;Liechtenstein;Liechtenstein;ليختنشتاين;لیختن‌اشتاین;UE Balkans
+2014;DNK;7;92,57;;;;6;92,92;-1;Danemark;Denmark;Dinamarca;الدنمارك;دانمارک;UE Balkans
+2014;ISL;8;91,5;;;;9;91,51;1;Islande;Iceland;Islandia;أيسلندا;ایسلند;UE Balkans
+2014;NZL;9;91,45;;;;8;91,62;-1;Nouvelle-Zélande;New Zealand;Nueva Zelanda;نيوزيلاندا;زلاند نو;Asie-Pacifique
+2014;SWE;10;91,02;;;;10;90,77;0;Suède;Sweden;Suecia;السويد;سوئد;UE Balkans
+2014;EST;11;90,37;;;;11;90,74;0;Estonie;Estonia;Estonia;إستونيا;استونی;UE Balkans
+2014;AUT;12;89,99;;;;12;90,6;0;Autriche;Austria;Austria;النمسا;اتریش;UE Balkans
+2014;CZE;13;89,93;;;;16;89,83;3;République tchèque;Czech Republic;República Checa;جمهورية التشيك;جمهوری چک;UE Balkans
+2014;DEU;14;89,77;;;;17;89,76;3;Allemagne;Germany;Alemania;ألمانيا;آلمان;UE Balkans
+2014;CHE;15;89,53;;;;14;90,06;-1;Suisse;Switzerland;Suiza;سويسرا;سويیس;UE Balkans
+2014;IRL;16;89,13;;;;15;89,94;-1;Irlande;Ireland;Irlanda;أيرلندا;ایرلند;UE Balkans
+2014;JAM;17;89,1;;;;13;90,12;-4;Jamaïque;Jamaica;Jamaica;جامايكا;جامائیکا;Amériques
+2014;CAN;18;89,01;;;;20;87,31;2;Canada;Canada;Canadá;كندا;کانادا;Amériques
+2014;POL;19;88,97;;;;22;86,89;3;Pologne;Poland;Polonia;بولندا;لهستان;UE Balkans
+2014;SVK;20;88,61;;;;23;86,75;3;Slovaquie;Slovakia;Eslovaquia;سلوفاكيا;اسلواکی;UE Balkans
+2014;CRI;21;87,77;;;;18;87,92;-3;Costa Rica;Costa Rica;Costa Rica;كوستاريكا;کاستاریکا;Amériques
+2014;NAM;22;87,5;;;;19;87,5;-3;Namibie;Namibia;Namibia;ناميبيا;نامیبیا;Afrique
+2014;BEL;23;87,2;;;;21;87,06;-2;Belgique;Belgium;Bélgica;بلجيكا;بلژیک;UE Balkans
+2014;CPV;24;85,68;;;;25;85,67;1;Cap-Vert;Cape Verde;Cabo Verde;الرأس الأخضر;کیپورد;Afrique
+2014;CYP;25;85,55;;;;24;86,17;-1;Chypre;Cyprus;Chipre;قبرص;قبرس;UE Balkans
+2014;URY;26;83,92;;;;27;84,08;1;Uruguay;Uruguay;Uruguay;أوروغواي;اروگويه;Amériques
+2014;GHA;27;83,71;;;;30;82,73;3;Ghana;Ghana;Ghana;غانا;غنا;Afrique
+2014;AUS;28;83,09;;;;26;84,76;-2;Australie;Australia;Australia;أستراليا;استرالیا;Asie-Pacifique
+2014;BLZ;29;82,95;;;;;;;Bélize;Belize;Belice;بليز;بلیز;Amériques
+2014;PRT;30;82,27;;;;28;83,25;-2;Portugal;Portugal;Portugal;البرتغال;پرتغال;UE Balkans
+2014;SUR;31;81,8;;;;31;81,81;0;Suriname;Suriname;Surinam;سورينام;سورینام;Amériques
+2014;LTU;32;80,8;;;;33;81,76;1;Lituanie;Lithuania;Lituania;ليتوانيا;لیتوانی;UE Balkans
+2014;GBR;33;80,07;;;;29;83,11;-4;Royaume-Uni;United Kingdom;Reino Unido;المملكة المتحدة;بریتانیا;UE Balkans
+2014;SVN;34;79,62;;;;35;79,51;1;Slovénie;Slovenia;Eslovenia;سلوفينيا;اسلوانی;UE Balkans
+2014;ESP;35;79,37;;;;36;79,5;1;Espagne;Spain;España;إسبانيا;اسپانیا;UE Balkans
+2014;XCD;36;79,19;;;;34;80,28;-2;OECS;OECS;OECS;الكاريبي;جزایر کارائیب شرقی;Amériques
+2014;LVA;37;78,9;;;;39;77,11;2;Lettonie;Latvia;Letonia;لاتفيا;لتوانی;UE Balkans
+2014;SLV;38;78,43;;;;38;77,14;0;El Salvador;El Salvador;El Salvador;السلفادور;ال‌سالوادور;Amériques
+2014;FRA;39;78,11;;;;37;78,4;-2;France;France;Francia;فرنسا;فرانسه;UE Balkans
+2014;WSM;40;77,98;;;;48;76,16;8;Samoa;Samoa;Samoa;ساموا;ساموآ;Asie-Pacifique
+2014;BWA;41;77,09;;;;40;77,09;-1;Botswana;Botswana;Botsuana;بوتسوانا;بوستاوانا;Afrique
+2014;ZAF;42;76,81;;;;52;75,44;10;Afrique du Sud;South Africa;Sudáfrica;جنوب أفريقيا;آفریقای جنوبی;Afrique
+2014;TTO;43;76,72;;;;44;76,88;1;Trinité-et-Tobago;Trinidad and Tobago;Trinidad y Tobago;ترينيداد وتوباغو;ترنتی و توبوگو;Amériques
+2014;PNG;44;76,54;;;;41;77,03;-3;Papouasie-Nouvelle-Guinée;Papua New Guinea;Papúa Nueva Guinea;بابوا غينيا الجديدة;پاپوآ گینه نو;Asie-Pacifique
+2014;ROU;45;76,52;;;;42;76,95;-3;Roumanie;Romania;Rumania;رومانيا;رومانی;UE Balkans
+2014;USA;46;76,51;;;;32;81,78;-14;États-Unis;United States;Estados Unidos;الولايات المتحدة;ایالات متحده امریکا;Amériques
+2014;HTI;47;76,47;;;;49;75,91;2;Haïti;Haiti;Haití;هايتي;هايیتی;Amériques
+2014;NER;48;76,41;;;;43;76,92;-5;Niger;Niger;Niger;النيجر;نیجر;Afrique
+2014;ITA;49;76,25;;;;57;73,89;8;Italie;Italy;Italia;إيطاليا;ایتالیا;UE Balkans
+2014;TWN;50;76,18;;;;47;76,18;-3;Taïwan;Taiwan;Taiwán;تايوان;تایوان;Asie-Pacifique
+2014;MLT;51;76,16;;;;45;76,7;-6;Malte;Malta;Malta;مالطا;مالت;UE Balkans
+2014;BFA;52;75,55;;;;46;76,3;-6;Burkina Faso;Burkina Faso;Burkina Faso;بوركينا فاسو;بورکینافاسو;Afrique
+2014;COM;53;75,48;;;;51;75,48;-2;Comores;Comoros;Comoras;جزر القمر;کومور;Afrique
+2014;SRB;54;74,95;;;;63;73,41;9;Serbie;Serbia;Serbia;صربيا;صربستان;UE Balkans
+2014;ARG;55;74,73;;;;54;74,33;-1;Argentine;Argentina;Argentina;الأرجنتين;آرژانتین;Amériques
+2014;MDA;56;74,65;;;;55;73,99;-1;Moldavie;Moldova;Moldavia;مولدوفا;مولداوی;EEAC
+2014;KOR;57;74,34;;;;50;75,52;-7;Corée du Sud;South Korea;Corea del Sur;كوريا الجنوبية;کره جنوبی;Asie-Pacifique
+2014;CHL;58;74,2;;;;60;73,76;2;Chili;Chile;Chile;تشيلي;شیلی;Amériques
+2014;JPN;59;73,98;;;;53;74,83;-6;Japon;Japan;Japón;اليابان;ژاپن;Asie-Pacifique
+2014;MRT;60;73,47;;;;67;73,24;7;Mauritanie;Mauritania;Mauritania;موريتانيا;موریتانی;Afrique
+2014;HKG;61;73,45;;;;58;73,84;-3;Hong-Kong;Hong Kong;Hong Kong;هونغ كونغ;هنگ کنگ;Asie-Pacifique
+2014;SEN;62;73,32;;;;59;73,81;-3;Sénégal;Senegal;Senegal;السنغال;سنگال;Afrique
+2014;TON;63;73,3;;;;66;73,3;3;Tonga;Tonga;Tonga;تونغا;تونگا;Asie-Pacifique
+2014;HUN;64;73,27;;;;56;73,91;-8;Hongrie;Hungary;Hungría;المجر;مجارستان;UE Balkans
+2014;HRV;65;73,18;;;;64;73,39;-1;Croatie;Croatia;Croacia;كرواتيا;کرواسی;UE Balkans
+2014;BIH;66;73,14;;;;68;73,14;2;Bosnie-Herzégovine;Bosnia and Herzegovina;Bosnia-Herzegovina;البوسنة والهرسك;بوسنی هرزوگوین;UE Balkans
+2014;GUY;67;72,92;;;;69;72,92;2;Guyana;Guyana;Guyana;غويانا;گیانا;Amériques
+2014;DOM;68;72,83;;;;80;71,66;12;République dominicaine;Dominican Republic;República Dominicana;جمهورية الدومينيكان;جمهوری دومینیک;Amériques
+2014;TZA;69;72,7;;;;70;72,66;1;Tanzanie;Tanzania;Tanzania;تنزانيا;تانزانیا;Afrique
+2014;MUS;70;72,31;;;;62;73,53;-8;Maurice;Mauritius;Mauricio;موريشيوس;موریس;Afrique
+2014;NIC;71;72,3;;;;78;71,69;7;Nicaragua;Nicaragua;Nicaragua;نيكاراغوا;نیکاراگوئه;Amériques
+2014;SLE;72;71,77;;;;61;73,65;-11;Sierra Leone;Sierra Leone;Sierra Leona;سيراليون;سئیرالئون;Afrique
+2014;MWI;73;71,71;;;;75;71,82;2;Malawi;Malawi;Malaui;مالاوي;مالاوی;Afrique
+2014;LSO;74;71,64;;;;81;71,64;7;Lesotho;Lesotho;Lesoto;ليسوتو;لسو‌تو;Afrique
+2014;BEN;75;71,17;;;;79;71,67;4;Bénin;Benin;Benín;بنين;بنین;Afrique
+2014;TGO;76;71;;;;83;71,55;7;Togo;Togo;Togo;توغو;توگو;Afrique
+2014;TLS;77;70,96;;;;90;71,28;13;Timor oriental;East Timor;Timor Oriental;تيمور الشرقية;تیمور شرقی;Asie-Pacifique
+2014;ARM;78;70,93;;;;74;71,96;-4;Arménie;Armenia;Armenia;أرمينيا;ارمنستان;EEAC
+2014;MOZ;79;70,74;;;;73;71,99;-6;Mozambique;Mozambique;Mozambique;موزمبيق;موزامبیک;Afrique
+2014;XKO;80;70,71;;;;85;71,53;5;Kosovo;Kosovo;Kosovo;كوسوفو;کوسووو;UE Balkans
+2014;MDG;81;70,62;;;;88;71,38;7;Madagascar;Madagascar;Madagascar;مدغشقر;ماداگاسکار;Afrique
+2014;COG;82;70,56;;;;76;71,8;-6;Congo;Congo;República del Congo;الكونغو;کنگو;Afrique
+2014;CTU;83;70,46;;;;94;70,66;11;Chypre (partie Nord);Cyprus North;Chipre Norte;قبرص (الجزء الشمالي);قبرس (شمالی);UE Balkans
+2014;GEO;84;70,22;;;;100;69,91;16;Géorgie;Georgia;Georgia;جورجيا;گرجستان;EEAC
+2014;ALB;85;70,08;;;;102;69,12;17;Albanie;Albania;Albania;ألبانيا;آلبانی;UE Balkans
+2014;GNB;86;69,95;;;;92;71,06;6;Guinée-Bissau;Guinea-Bissau;Guinea-Bisáu;غينيا بيساو;گینه بیسائو;Afrique
+2014;PAN;87;69,8;;;;111;67,05;24;Panama;Panama;Panamá;بنما;پاناما;Amériques
+2014;MNG;88;69,7;;;;98;70,07;10;Mongolie;Mongolia;Mongolia;منغوليا;مغولستان;Asie-Pacifique
+2014;LBR;89;69,35;;;;97;70,11;8;Liberia;Liberia;Liberia;ليبيريا;لیبریا;Afrique
+2014;KEN;90;69,3;;;;71;72,2;-19;Kenya;Kenya;Kenia;كينيا;کنیا;Afrique
+2014;KWT;91;69,29;;;;77;71,72;-14;Koweït;Kuwait;Kuwait;الكويت;کویت;MENA
+2014;BTN;92;69,27;;;;82;71,58;-10;Bhoutan;Bhutan;Bután;بوتان;بوتان;Asie-Pacifique
+2014;ZMB;93;69,11;;;;72;72,07;-21;Zambie;Zambia;Zambia;زامبيا;زامبیا;Afrique
+2014;BOL;94;68,96;;;;109;67,2;15;Bolivie;Bolivia;Bolivia;بوليفيا;بلیوی;Amériques
+2014;ECU;95;68,84;;;;119;65,31;24;Équateur;Ecuador;Ecuador;الإكوادور;اکواتور;Amériques
+2014;ISR;96;68,81;;;;112;67,03;16;Israël;Israel;Israel;إسرائيل;اسرائیل;MENA
+2014;KGZ;97;68,76;;;;106;67,8;9;Kirghizstan;Kyrgyzstan;Kirguistán;قرغيزستان;قرقیزستان;EEAC
+2014;GAB;98;68,68;;;;89;71,31;-9;Gabon;Gabon;República Gabonesa;الغابون;گابون;Afrique
+2014;GRC;99;68,67;;;;84;71,54;-15;Grèce;Greece;Grecia;اليونان;یونان;UE Balkans
+2014;BGR;100;68,58;;;;87;71,42;-13;Bulgarie;Bulgaria;Bulgaria;بلغاريا;بلغارستان;UE Balkans
+2014;CIV;101;68,37;;;;96;70,23;-5;Côte d'Ivoire;Ivory Coast;Costa de Marfil;ساحل العاج;ساحل عاج;Afrique
+2014;GIN;102;68,33;;;;86;71,51;-16;Guinée;Guinea;Guinea;غينيا;گینه;Afrique
+2014;SYC;103;68,32;;;;93;70,81;-10;Seychelles;Seychelles;Seychelles;سيشيل;سی‌شل;Afrique
+2014;PER;104;68,3;;;;105;68,13;1;Pérou;Peru;Peru;بيرو;پرو;Amériques
+2014;PRY;105;68,19;;;;91;71,22;-14;Paraguay;Paraguay;Paraguay;باراغواي;پاراگوئه;Amériques
+2014;LBN;106;68,11;;;;101;69,85;-5;Liban;Lebanon;Líbano;لبنان;لبنان;MENA
+2014;FJI;107;67,43;;;;107;67,31;0;Fidji;Fiji;Fiyi;فيجي;فیجی;Asie-Pacifique
+2014;MDV;108;66,89;;;;103;68,9;-5;Maldives;Maldives;Maldivas;المالديف;مالدیو;Asie-Pacifique
+2014;CAF;109;66,87;;;;65;73,39;-44;République centrafricaine;Central African Republic;República Centroafricana;جمهورية أفريقيا الوسطى;جمهوری آفریقای مرکزی;Afrique
+2014;UGA;110;66,71;;;;104;68,31;-6;Ouganda;Uganda;Uganda;أوغندا;اوگاندا;Afrique
+2014;BRA;111;65,97;;;;108;67,25;-3;Brésil;Brazil;Brasil;البرازيل;برزیل;Amériques
+2014;NGA;112;65,76;;;;115;65,89;3;Nigeria;Nigeria;Nigeria;نيجيريا;نیجریه;Afrique
+2014;QAT;113;65,68;;;;110;67,14;-3;Qatar;Qatar;Catar;قطر;قطر;MENA
+2014;MNE;114;65,22;;;;113;67,03;-1;Monténégro;Montenegro;Montenegro;الجبل الأسود;مونته‌نگرو;UE Balkans
+2014;TJK;115;65,14;;;;123;64,29;8;Tadjikistan;Tajikistan;Tayikistán;طاجيكستان;تاجیکستان;EEAC
+2014;VEN;116;64,63;;;;117;65,56;1;Venezuela;Venezuela;Venezuela;فنزويلا;ونزوئلا;Amériques
+2014;BRN;117;64,55;;;;122;64,55;5;Brunei;Brunei Darussalam;Brunéi;بروناي;برونی;Asie-Pacifique
+2014;ARE;118;63,97;;;;114;66,51;-4;Émirats arabes unis;United Arab Emirates;Emiratos Árabes Unidos;الإمارات العربية المتحدة;امارات متحده عربی;MENA
+2014;SSD;119;63,95;;;;124;63,8;5;Soudan du Sud;South Sudan;Sudán del Sur;جمهورية جنوب السودان;سودان جنوبی;Afrique
+2014;NPL;120;63,84;;;;118;65,39;-2;Népal;Nepal;Nepal;نيبال;نپال;Asie-Pacifique
+2014;DZA;121;63,74;;;;125;63,46;4;Algérie;Algeria;Argelia;الجزائر;الجزایر;MENA
+2014;MLI;122;63,71;;;;99;69,97;-23;Mali;Mali;Malí;مالي;مالی;Afrique
+2014;MKD;123;63,57;;;;116;65,73;-7;Macédoine du Nord;North Macedonia;República de Macedonia del Norte;مقدونيا الشمالية;مقدونیه شمالی ;UE Balkans
+2014;AGO;124;63,5;;;;130;62,2;6;Angola;Angola;Angola;أنغولا;آنگولا;Afrique
+2014;GTM;125;63,39;;;;95;70,61;-30;Guatemala;Guatemala;Guatemala;غواتيمالا;گواتمالا;Amériques
+2014;COL;126;63,32;;;;129;62,52;3;Colombie;Colombia;Colombia;كولومبيا;کلمبیا;Amériques
+2014;UKR;127;63,07;;;;126;63,21;-1;Ukraine;Ukraine;Ucrania;أوكرانيا;اوکراين;EEAC
+2014;AFG;128;62,93;;;;128;62,64;0;Afghanistan;Afghanistan;Afganistán;أفغانستان;افغانستان;Asie-Pacifique
+2014;HND;129;62,86;;;;127;63,08;-2;Honduras;Honduras;Honduras;هندوراس;هندوراس;Amériques
+2014;THA;130;62,06;;;;135;61,4;5;Thaïlande;Thailand;Tailandia;تايلاند;تایلند;Asie-Pacifique
+2014;CMR;131;61,87;;;;120;65,22;-11;Cameroun;Cameroon;Camerún;الكاميرون;کامرون;Afrique
+2014;IDN;132;61,85;;;;139;58,95;7;Indonésie;Indonesia;Indonesia;أندونيسيا;اندونزی;Asie-Pacifique
+2014;TUN;133;61,31;;;;138;60,07;5;Tunisie;Tunisia;Túnez;تونس;تونس;MENA
+2014;OMN;134;61,17;;;;141;58,49;7;Oman;Oman;Omán;عمان;عمان;MENA
+2014;ZWE;135;60,81;;;;133;61,88;-2;Zimbabwe;Zimbabwe;Zimbabue;زيمبابوي;زیمبابوه;Afrique
+2014;MAR;136;60,28;;;;136;60,96;0;Maroc;Morocco;Marruecos;المغرب;مراکش;MENA
+2014;LBY;137;60,16;;;;131;62,14;-6;Libye;Libya;Libia;ليبيا;لیبی;MENA
+2014;PSE;138;59,89;;;;146;56,91;8;Palestine;Palestine;Palestina;فلسطين;فلسطین;MENA
+2014;TCD;139;59,78;;;;121;65,13;-18;Tchad;Chad;Chad;تشاد;چاد;Afrique
+2014;IND;140;59,66;;;;140;58,78;0;Inde;India;India;الهند;هند;Asie-Pacifique
+2014;JOR;141;59,58;;;;134;61,53;-7;Jordanie;Jordan;Jordania;الأردن;اردن;MENA
+2014;BDI;142;59,5;;;;132;61,98;-10;Burundi;Burundi;Burundi;بوروندي;بروندی;Afrique
+2014;ETH;143;59,42;;;;137;60,43;-6;Éthiopie;Ethiopia;Etiopía;أثيوبيا;اتیوپی;Afrique
+2014;KHM;144;59,03;;;;143;58,19;-1;Cambodge;Cambodia;Camboya;كمبوديا;کامبوج;Asie-Pacifique
+2014;MMR;145;58,57;;;;151;55,29;6;Birmanie;Myanmar;Birmania;بورما;برمه;Asie-Pacifique
+2014;BGD;146;57,42;;;;144;57,99;-2;Bangladesh;Bangladesh;Bangladés;بنغلاديش;بنگلادش;Asie-Pacifique
+2014;MYS;147;57,27;;;;145;57,27;-2;Malaisie;Malaysia;Malasia;ماليزيا;مالزی;Asie-Pacifique
+2014;RUS;148;57,22;;;;148;56,58;0;Russie;Russian Federation;Rusia;روسيا;روسیه;EEAC
+2014;PHL;149;56,31;;;;147;56,89;-2;Philippines;Philippines;Filipinas;الفلبين;فلیپین;Asie-Pacifique
+2014;SGP;150;55,71;;;;149;56,57;-1;Singapour;Singapore;Singapur;سنغافورة;سنگاپور;Asie-Pacifique
+2014;COD;151;55,36;;;;142;58,34;-9;RD Congo;The Democratic Republic Of The Congo;RD Congo;جمهورية الكونغو الديمقراطية;جمهوری دمکراتیک کنگو;Afrique
+2014;MEX;152;54,96;;;;153;54,7;1;Mexique;Mexico;México;المكسيك;مکزیک;Amériques
+2014;IRQ;153;54,56;;;;150;55,33;-3;Irak;Iraq;Irak;العراق;عراق;MENA
+2014;TUR;154;54,13;;;;154;53,44;0;Turquie;Turkey;Turquía;تركيا;ترکیه;EEAC
+2014;GMB;155;53,58;;;;152;54,91;-3;Gambie;Gambia;Gambia;غامبيا;گامبیا;Afrique
+2014;SWZ;156;53,24;;;;155;53,24;-1;Eswatini;Eswatini;Esuatini;إسواتيني;اسواتینی ;Afrique
+2014;BLR;157;52,18;;;;157;51,65;0;Bélarus;Belarus;Belarús;روسيا البيضاء;روسیه سفید;EEAC
+2014;PAK;158;48,54;;;;159;48,69;1;Pakistan;Pakistan;Pakistán;باكستان;پاکستان;Asie-Pacifique
+2014;EGY;159;48,11;;;;158;51,34;-1;Égypte;Egypt;Egipto;مصر;مصر;MENA
+2014;AZE;160;47,13;;;;156;52,27;-4;Azerbaïdjan;Azerbaijan;Azerbaiyán;أذربيجان;آذربایجان;EEAC
+2014;KAZ;161;45,06;;;;160;44,92;-1;Kazakhstan;Kazakhstan;Kazajistán;كازاخستان;قزاقستان;EEAC
+2014;RWA;162;43,43;;;;161;44,54;-1;Rwanda;Rwanda;Ruanda;رواندا;روندا;Afrique
+2014;BHR;163;41,74;;;;165;37,25;2;Bahreïn;Bahrain;Baréin;البحرين;بحرین;MENA
+2014;SAU;164;41,7;;;;163;43,12;-1;Arabie saoudite;Saudi Arabia;Arabia Saudita;المملكة العربية السعودية;عربستان سعودی;MENA
+2014;LKA;165;40,87;;;;162;43,41;-3;Sri Lanka;Sri Lanka;Sri Lanka;سري لانكا;سریلانکا;Asie-Pacifique
+2014;UZB;166;38,99;;;;164;39,61;-2;Ouzbékistan;Uzbekistan;Uzbekistán;أوزبكستان;اوزبکستان;EEAC
+2014;YEM;167;32,74;;;;169;30,78;2;Yémen;Yemen;Yemen;اليمن;یمن;MENA
+2014;GNQ;168;32,05;;;;166;32,8;-2;Guinée équatoriale;Equatorial Guinea;Guinea Ecuatorial;غينيا الاستوائية;گینه اکوادور;Afrique
+2014;DJI;169;29,66;;;;167;32,6;-2;Djibouti;Djibouti;Yibuti;جيبوتي;جیبوتی;Afrique
+2014;CUB;170;29,08;;;;171;28,36;1;Cuba;Cuba;Cuba;كوبا;کوبا;Amériques
+2014;LAO;171;28,78;;;;168;32,01;-3;Laos;Lao People's Democratic Republic;Laos;لاوس;لائوس;Asie-Pacifique
+2014;SDN;172;28,12;;;;170;29,94;-2;Soudan;Sudan;Sudán;السودان;سودان;Afrique
+2014;IRN;173;27,71;;;;174;26,6;1;Iran;Islamic Republic of Iran;Irán;إيران;ایران;MENA
+2014;VNM;174;27,64;;;;172;28,22;-2;Viêt Nam;Vietnam;Vietnam;فيتنام;ویتنام;Asie-Pacifique
+2014;CHN;175;27,09;;;;173;26,93;-2;Chine;China;China;الصين;چین;Asie-Pacifique
+2014;SOM;176;26,81;;;;175;26,41;-1;Somalie;Somalia;Somalia;الصومال;سومالی;Afrique
+2014;SYR;177;22,96;;;;176;21,47;-1;Syrie;Syrian Arab Republic;Siria;سوريا;سوریه;MENA
+2014;TKM;178;19,19;;;;177;20,86;-1;Turkménistan;Turkmenistan;Turkmenistán;تركمانستان;ترکمنستان;EEAC
+2014;PRK;179;18,04;;;;178;16,1;-1;Corée du Nord;Democratic People's Republic of Korea;Corea del Norte;كوريا الشمالية;کره شمالی;Asie-Pacifique
+2014;ERI;180;15,17;;;;179;15,17;-1;Érythrée;Eritrea;Eritrea;إريتريا;اریتره;Afrique

@@ -13,7 +13,7 @@ ENV NEO4J_apoc_import_file_use__neo4j__config=true
 # Copy the data from the previous instance into the image
 # COPY ./Data/data/databases /data/databases
 # The key path should be added to the .conf file of neo4j
-COPY neo4j.dump .
+COPY neo4j_backup/2024/neo4j.dump .
 #Keys for enterprise edition
 COPY ./keys/neo4j-bloom-server-keyfile.txt usr/share/neo4j/
 COPY ./keys/neo4j-gds-keyfile.txt usr/share/neo4j/

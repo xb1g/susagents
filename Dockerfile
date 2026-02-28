@@ -21,8 +21,4 @@ COPY ./keys/neo4j-gds-keyfile.txt usr/share/neo4j/
 # Expose the ports for HTTP (7474), Bolt (7687), and HTTPS (7473)
 EXPOSE 7474 7687 7473
 
-# Command to restore the dump file and start Neo4j- RUN THIS ONLY IF DB IS EMPTY 
-# CMD ["bash", "-c", "neo4j-admin database load neo4j --from-path=. --overwrite-destination  && neo4j console"]
-
-#Run this otherwise
-CMD ["bash", "-c", "neo4j console"]
+CMD ["neo4j", "console"]
